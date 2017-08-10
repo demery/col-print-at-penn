@@ -3,7 +3,6 @@
 $:.unshift File.expand_path '../../lib', __FILE__
 require 'precol'
 require 'precol/util'
-require 'rubyXL'
 require 'csv'
 require 'tempfile'
 
@@ -19,7 +18,7 @@ headers = CSV.open(input_csv, 'r') { |csv| csv.first }
 File.exists? input_csv or fail "Not a valid file: '#{input_csv}'"
 
 db_file = File.expand_path '../../data/one_off_printed_dirs.txt', __FILE__
-DIR_LIST = DirsOnDisk.new open(db_file).readlines.map &:strip
+DIR_LIST = Precol::DirsOnDisk.new open(db_file).readlines.map &:strip
 
 tmpfile = Tempfile.new('foo')
 tmpfile.write(open(input_csv).read.encode('UTF-8', invalid: :replace))
@@ -32,7 +31,7 @@ CSV.open output_csv, 'wb' do |out_csv|
 
   CSV.foreach tmpfile, headers: true do |row|
     # BibID Collection  Directory File Path   Link to Print at Penn     File name
-    data = BookData.new row.to_hash
+    data = Precol::BookData.new row.to_hash
     if blank?(data.file_name)
       row['STATUS'] = 'NO FILE NAME'
       out_csv << row
