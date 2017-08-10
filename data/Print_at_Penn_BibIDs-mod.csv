@@ -1,4 +1,4 @@
-STATUS ,BibID,Collection,Directory,File Path,,Link to Print at Penn,,,File name,,FOUND PATH
+STATUS,BibID,Collection,Directory,File Path,,Link to Print at Penn,,,File name,,FOUND PATH
 MATCH,2641869,Early Novels,\sceti-completed\One_Off_Printed\EarlyNovelsDigitization,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2641869,,,148_au85,,./EarlyNovelsDigitization/Batch2QApass_shared51917/148_au85
 MATCH,266593,Early Novels,\sceti-completed\One_Off_Printed\EarlyNovelsDigitization,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=266593,,,ct788_c2_a3,,./EarlyNovelsDigitization/ct788_c2_a3
 MATCH,1801343,Early Novels,\sceti-completed\One_Off_Printed\EarlyNovelsDigitization,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1801343,,,d917_a5_1783,,./EarlyNovelsDigitization/d917_a5_1783
@@ -24,7 +24,7 @@ MATCH,197280,Early Novels,\sceti-completed\One_Off_Printed\EarlyNovelsDigitizati
 MATCH,202196,Early Novels,\sceti-completed\One_Off_Printed\EarlyNovelsDigitization,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=202196,,,pr3291_a1_h6315_1770,,./EarlyNovelsDigitization/pr3291_a1_h6315_1770
 MATCH,186842,Early Novels,\sceti-completed\One_Off_Printed\EarlyNovelsDigitization,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=186842,,,pr3291_a1_j68_1774,,./EarlyNovelsDigitization/pr3291_a1_j68_1774
 MATCH,4106228,Early Novels,\sceti-completed\One_Off_Printed\EarlyNovelsDigitization,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=4106228,,,pr3291_a1_l465_1703,,./EarlyNovelsDigitization/pr3291_a1_l465_1703
-NO MATCH,145447,Early Novels,\sceti-completed\One_Off_Printed\EarlyNovelsDigitization,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=145447,,,pr3291_a1_l561787,,""
+MATCH,145447,Early Novels,\sceti-completed\One_Off_Printed\EarlyNovelsDigitization,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=145447,,,pr3291_a1_l56_1787,,./EarlyNovelsDigitization/pr3291_a1_l56_1787
 MATCH,150692,Early Novels,\sceti-completed\One_Off_Printed\EarlyNovelsDigitization,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=150692,,,PR3291_A1_M38_1769_V1-2,,./EarlyNovelsDigitization/Batch2QApass_shared51917/PR3291_A1_M38_1769_V1-2
 MATCH,193381,Early Novels,\sceti-completed\One_Off_Printed\EarlyNovelsDigitization,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=193381,,,PR3291_A1_M47_1761_V1-2,,./EarlyNovelsDigitization/Batch2QApass_shared51917/PR3291_A1_M47_1761_V1-2
 MATCH,300954,Early Novels,\sceti-completed\One_Off_Printed\EarlyNovelsDigitization,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=300954,,,pr3291_a1_m5,,./EarlyNovelsDigitization/pr3291_a1_m5
@@ -88,7 +88,7 @@ MATCH,186248,Early Novels,\sceti-completed\One_Off_Printed\EarlyNovelsDigitizati
 MATCH,154757,Early Novels,\sceti-completed\One_Off_Printed\EarlyNovelsDigitization,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=154757,,,pr3991_a6_l327_1776,,./EarlyNovelsDigitization/pr3991_a6_l327_1776
 MATCH,149176,Early Novels,\sceti-completed\One_Off_Printed\EarlyNovelsDigitization,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=149176,,,pr3991_a6_l328_1779,,./EarlyNovelsDigitization/pr3991_a6_l328_1779
 MATCH,154369,Early Novels,\sceti-completed\One_Off_Printed\EarlyNovelsDigitization,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=154369,,,pr3991_a6_y67_1773,,./EarlyNovelsDigitization/pr3991_a6_y67_1773
-NO MATCH,107628,Early Novels,\sceti-completed\One_Off_Printed\EarlyNovelsDigitization,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=107628,,,pr3991_a6_Y676_1787b,,""
+MATCH,107628,Early Novels,\sceti-completed\One_Off_Printed\EarlyNovelsDigitization,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=107628,,,pr3991_a6_y676_1787b,,./EarlyNovelsDigitization/pr3991_a6_y676_1787b
 MATCH,159824,Early Novels,\sceti-completed\One_Off_Printed\EarlyNovelsDigitization,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=159824,,,pr3991_a6_y68_1784,,./EarlyNovelsDigitization/pr3991_a6_y68_1784
 MATCH,83255,Early Novels,\sceti-completed\One_Off_Printed\EarlyNovelsDigitization,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=83255,,,pr3991_a7_e44_1780,,./EarlyNovelsDigitization/pr3991_a7_e44_1780
 MATCH,6436279,Early Novels,\sceti-completed\One_Off_Printed\EarlyNovelsDigitization,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6436279,,,pr3991_a7_l67_1791,,./EarlyNovelsDigitization/pr3991_a7_l67_1791
@@ -104,7 +104,7 @@ MATCH,6017881,Fez,sceti-completed\One_Off_Printed\Fez,,,http://dla.library.upenn
 MATCH,6018208,Fez,sceti-completed\One_Off_Printed\Fez,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6018208,,,kbp320_k43_a363987_1875,,./Fez/kbp320_k43_a363987_1875
 MATCH,6018385,Fez,sceti-completed\One_Off_Printed\Fez,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6018385,,,kbp320_k43_a36357_1867_v2_v4-6,,./Fez/kbp320_k43_a36357_1867_v2_v4-6
 MATCH,6018428,Fez,sceti-completed\One_Off_Printed\Fez,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6018428,,,kbp320_i2624_a38385_1873,,./Fez/kbp320_i2624_a38385_1873
-NO MATCH,6019337,Fez,sceti-completed\One_Off_Printed\Fez,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6019337,,,kbp320_m388_a333525_1875_v1-2,,""
+MATCH,6019337,Fez,sceti-completed\One_Off_Printed\Fez,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6019337,,,kbp320_m388_a333525_1875,,./Fez/kbp320_m388_a333525_1875
 MATCH,6019339,Fez,sceti-completed\One_Off_Printed\Fez,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6019339,,,kbp320_m388_a333525_1875b_v2_c2,,./Fez/kbp320_m388_a333525_1875/kbp320_m388_a333525_1875b_v2_c2
 MATCH,6020714,Fez,sceti-completed\One_Off_Printed\Fez,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6020714,,,kbp490_55_k43_q255_1876,,./Fez/kbp490_55_k43_q255_1876
 MATCH,6020759,Fez,sceti-completed\One_Off_Printed\Fez,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6020759,,,kbp320_k43_a36346_1877,,./Fez/kbp320_k43_a36346_1877
@@ -182,7 +182,7 @@ MATCH,6066948,Fez,sceti-completed\One_Off_Printed\Fez,,,http://dla.library.upenn
 MATCH,6067869,Fez,sceti-completed\One_Off_Printed\Fez,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6067869,,,dt303_a23_1904,,./Fez/dt303_a23_1904
 MATCH,6067870,Fez,sceti-completed\One_Off_Printed\Fez,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6067870,,,pj7632_i8_n3973_1905_v1-4,,./Fez/pj7632_i8_n3973_1905_v1-4
 MATCH,6067874,Fez,sceti-completed\One_Off_Printed\Fez,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6067874,,,bc34_i2535_1911,,./Fez/bc34_i2535_1911
-NO MATCH,6067919,Fez,sceti-completed\One_Off_Printed\Fez,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6067919,,,kbp320_k43_a3634437_1900z_v1-2,,""
+MATCH,6067919,Fez,sceti-completed\One_Off_Printed\Fez,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6067919,,,kbp320_k43_a3634437_1900z,,./Fez/kbp320_k43_a3634437_1900z
 MATCH,6067950,Fez,sceti-completed\One_Off_Printed\Fez,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6067950,,,bp135_s495_1911,,./Fez/bp135_s495_1911
 MATCH,6068556,Fez,sceti-completed\One_Off_Printed\Fez,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6068556,,,bp189_62_b83_1900z,,./Fez/bp189_62_b83_1900z
 MATCH,6068557,Fez,sceti-completed\One_Off_Printed\Fez,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6068557,,,pn6231_n27_n39_1900z,,./Fez/pn6231_n27_n39_1900z
@@ -239,191 +239,191 @@ MATCH,6142589,Fez,sceti-completed\One_Off_Printed\Fez,,,http://dla.library.upenn
 MATCH,6142786,Fez,sceti-completed\One_Off_Printed\Fez,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6142786,,,dt102_a2_d875_1889,,./Fez/dt102_a2_d875_1889
 MATCH,6143379,Fez,sceti-completed\One_Off_Printed\Fez,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6143379,,,pj7862_a6135_s295_1865,,./Fez/pj7862_a6135_s295_1865
 MATCH,6757123,Fez,sceti-completed\One_Off_Printed\Fez,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6757123,,,bp178_m367_1860,,./Fez/bp178_m367_1860
-NO FILE NAME,608642,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=608642,,,,
-NO FILE NAME,608931,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=608931,,,,
-NO FILE NAME,609433,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=609433,,,,
-NO FILE NAME,611154,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=611154,,,,
-NO FILE NAME,614059,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=614059,,,,
-NO FILE NAME,615174,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=615174,,,,
-NO FILE NAME,615485,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=615485,,,,
-NO FILE NAME,616734,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=616734,,,,
-NO FILE NAME,618698,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=618698,,,,
-NO FILE NAME,618851,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=618851,,,,
-NO FILE NAME,619305,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=619305,,,,
-NO FILE NAME,623823,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=623823,,,,
-NO FILE NAME,626996,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=626996,,,,
-NO FILE NAME,630048,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=630048,,,,
-NO FILE NAME,630669,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=630669,,,,
-NO FILE NAME,632012,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=632012,,,,
-NO FILE NAME,635271,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=635271,,,,
-NO FILE NAME,635636,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=635636,,,,
-NO FILE NAME,639104,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=639104,,,,
-NO FILE NAME,640466,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=640466,,,,
-NO FILE NAME,641959,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=641959,,,,
-NO FILE NAME,642434,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=642434,,,,
-NO FILE NAME,646980,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=646980,,,,
-NO FILE NAME,647691,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=647691,,,,
-NO FILE NAME,648021,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=648021,,,,
-NO FILE NAME,648874,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=648874,,,,
-NO FILE NAME,650740,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=650740,,,,
-NO FILE NAME,653019,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=653019,,,,
-NO FILE NAME,653685,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=653685,,,,
-NO FILE NAME,658353,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=658353,,,,
-NO FILE NAME,660346,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=660346,,,,
-NO FILE NAME,660766,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=660766,,,,
-NO FILE NAME,661606,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=661606,,,,
-NO FILE NAME,663017,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=663017,,,,
-NO FILE NAME,664535,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=664535,,,,
-NO FILE NAME,671442,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=671442,,,,
-NO FILE NAME,671592,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=671592,,,,
-NO FILE NAME,672427,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=672427,,,,
-NO FILE NAME,672803,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=672803,,,,
-NO FILE NAME,675863,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=675863,,,,
-NO FILE NAME,677281,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=677281,,,,
-NO FILE NAME,679103,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=679103,,,,
-NO FILE NAME,682463,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=682463,,,,
-NO FILE NAME,685159,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=685159,,,,
-NO FILE NAME,689414,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=689414,,,,
-NO FILE NAME,690632,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=690632,,,,
-NO FILE NAME,695260,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=695260,,,,
-NO FILE NAME,698743,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=698743,,,,
-NO FILE NAME,700865,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=700865,,,,
-NO FILE NAME,701551,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=701551,,,,
-NO FILE NAME,702301,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=702301,,,,
-NO FILE NAME,703383,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=703383,,,,
-NO FILE NAME,706626,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=706626,,,,
-NO FILE NAME,709615,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=709615,,,,
-NO FILE NAME,709936,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=709936,,,,
-NO FILE NAME,711562,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=711562,,,,
-NO FILE NAME,711596,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=711596,,,,
-NO FILE NAME,712350,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=712350,,,,
-NO FILE NAME,713736,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=713736,,,,
-NO FILE NAME,713841,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=713841,,,,
-NO FILE NAME,715311,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=715311,,,,
-NO FILE NAME,718631,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=718631,,,,
-NO FILE NAME,718704,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=718704,,,,
-NO FILE NAME,719512,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=719512,,,,
-NO FILE NAME,720565,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=720565,,,,
-NO FILE NAME,722811,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=722811,,,,
-NO FILE NAME,723362,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=723362,,,,
-NO FILE NAME,724225,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=724225,,,,
-NO FILE NAME,724479,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=724479,,,,
-NO FILE NAME,726844,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=726844,,,,
-NO FILE NAME,727507,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=727507,,,,
-NO FILE NAME,728105,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=728105,,,,
-NO FILE NAME,728427,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=728427,,,,
-NO FILE NAME,730547,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=730547,,,,
-NO FILE NAME,731504,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=731504,,,,
-NO FILE NAME,732709,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=732709,,,,
-NO FILE NAME,734143,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=734143,,,,
-NO FILE NAME,734808,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=734808,,,,
-NO FILE NAME,735378,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=735378,,,,
-NO FILE NAME,739825,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=739825,,,,
-NO FILE NAME,741725,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=741725,,,,
-NO FILE NAME,743425,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=743425,,,,
-NO FILE NAME,746048,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=746048,,,,
-NO FILE NAME,747475,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=747475,,,,
-NO FILE NAME,748578,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=748578,,,,
-NO FILE NAME,750935,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=750935,,,,
-NO FILE NAME,753352,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=753352,,,,
-NO FILE NAME,755472,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=755472,,,,
-NO FILE NAME,758552,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=758552,,,,
-NO FILE NAME,767131,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=767131,,,,
-NO FILE NAME,769547,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=769547,,,,
-NO FILE NAME,770554,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=770554,,,,
-NO FILE NAME,771775,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=771775,,,,
-NO FILE NAME,775159,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=775159,,,,
-NO FILE NAME,775279,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=775279,,,,
-NO FILE NAME,776348,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=776348,,,,
-NO FILE NAME,781000,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=781000,,,,
-NO FILE NAME,782061,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=782061,,,,
-NO FILE NAME,783707,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=783707,,,,
-NO FILE NAME,784746,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=784746,,,,
-NO FILE NAME,784900,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=784900,,,,
-NO FILE NAME,789558,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=789558,,,,
-NO FILE NAME,794281,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=794281,,,,
-NO FILE NAME,795827,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=795827,,,,
-NO FILE NAME,796478,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=796478,,,,
-NO FILE NAME,800329,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=800329,,,,
-NO FILE NAME,804684,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=804684,,,,
-NO FILE NAME,805413,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=805413,,,,
-NO FILE NAME,808864,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=808864,,,,
-NO FILE NAME,810342,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=810342,,,,
-NO FILE NAME,811052,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=811052,,,,
-NO FILE NAME,811262,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=811262,,,,
-NO FILE NAME,811295,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=811295,,,,
-NO FILE NAME,813834,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=813834,,,,
-NO FILE NAME,815453,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=815453,,,,
-NO FILE NAME,816397,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=816397,,,,
-NO FILE NAME,821529,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=821529,,,,
-NO FILE NAME,823451,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=823451,,,,
-NO FILE NAME,823634,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=823634,,,,
-NO FILE NAME,830578,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=830578,,,,
-NO FILE NAME,830968,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=830968,,,,
-NO FILE NAME,835482,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=835482,,,,
-NO FILE NAME,839535,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=839535,,,,
-NO FILE NAME,842728,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=842728,,,,
-NO FILE NAME,845672,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=845672,,,,
-NO FILE NAME,847562,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=847562,,,,
-NO FILE NAME,849563,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=849563,,,,
-NO FILE NAME,851043,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=851043,,,,
-NO FILE NAME,853805,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=853805,,,,
-NO FILE NAME,853837,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=853837,,,,
-NO FILE NAME,856631,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=856631,,,,
-NO FILE NAME,856697,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=856697,,,,
-NO FILE NAME,857933,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=857933,,,,
-NO FILE NAME,861363,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=861363,,,,
-NO FILE NAME,863751,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=863751,,,,
-NO FILE NAME,865291,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=865291,,,,
-NO FILE NAME,866161,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=866161,,,,
-NO FILE NAME,866286,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=866286,,,,
-NO FILE NAME,869066,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=869066,,,,
-NO FILE NAME,871039,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=871039,,,,
-NO FILE NAME,873483,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=873483,,,,
-NO FILE NAME,874707,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=874707,,,,
-NO FILE NAME,874949,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=874949,,,,
-NO FILE NAME,875689,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=875689,,,,
-NO FILE NAME,875940,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=875940,,,,
-NO FILE NAME,879319,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=879319,,,,
-NO FILE NAME,880952,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=880952,,,,
-NO FILE NAME,887188,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=887188,,,,
-NO FILE NAME,889595,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=889595,,,,
-NO FILE NAME,894636,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=894636,,,,
-NO FILE NAME,896527,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=896527,,,,
-NO FILE NAME,897328,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=897328,,,,
-NO FILE NAME,897593,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=897593,,,,
-NO FILE NAME,898617,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=898617,,,,
-NO FILE NAME,899340,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=899340,,,,
-NO FILE NAME,900673,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=900673,,,,
-NO FILE NAME,901454,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=901454,,,,
-NO FILE NAME,902020,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=902020,,,,
-NO FILE NAME,904153,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=904153,,,,
-NO FILE NAME,906366,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=906366,,,,
-NO FILE NAME,906448,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=906448,,,,
-NO FILE NAME,908346,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=908346,,,,
-NO FILE NAME,912518,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=912518,,,,
-NO FILE NAME,916737,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=916737,,,,
-NO FILE NAME,919380,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=919380,,,,
-NO FILE NAME,919700,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=919700,,,,
-NO FILE NAME,921590,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=921590,,,,
-NO FILE NAME,921669,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=921669,,,,
-NO FILE NAME,923905,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=923905,,,,
-NO FILE NAME,930515,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=930515,,,,
-NO FILE NAME,932257,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=932257,,,,
-NO FILE NAME,933326,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=933326,,,,
-NO FILE NAME,933354,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=933354,,,,
-NO FILE NAME,935036,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=935036,,,,
-NO FILE NAME,5999792,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5999792,,,,
-NO FILE NAME,6001454,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6001454,,,,
-NO FILE NAME,6001454,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6001454,,,,
-NO FILE NAME,6001557,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6001557,,,,
-NO FILE NAME,6291624,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6291624,,,,
-NO FILE NAME,6291624,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6291624,,,,
-NO FILE NAME,6291631,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6291631,,,,
-NO FILE NAME,6291631,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6291631,,,,
-NO FILE NAME,6291692,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6291692,,,,
-NO FILE NAME,6291692,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6291692,,,,
-NO MATCH,2622455,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\117 T237.2,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2622455,,,117 T237.2,,""
+NO FILE NAME,608642,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=608642,,,,,
+NO FILE NAME,608931,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=608931,,,,,
+NO FILE NAME,609433,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=609433,,,,,
+NO FILE NAME,611154,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=611154,,,,,
+NO FILE NAME,614059,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=614059,,,,,
+NO FILE NAME,615174,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=615174,,,,,
+NO FILE NAME,615485,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=615485,,,,,
+NO FILE NAME,616734,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=616734,,,,,
+NO FILE NAME,618698,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=618698,,,,,
+NO FILE NAME,618851,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=618851,,,,,
+NO FILE NAME,619305,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=619305,,,,,
+NO FILE NAME,623823,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=623823,,,,,
+NO FILE NAME,626996,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=626996,,,,,
+NO FILE NAME,630048,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=630048,,,,,
+NO FILE NAME,630669,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=630669,,,,,
+NO FILE NAME,632012,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=632012,,,,,
+NO FILE NAME,635271,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=635271,,,,,
+NO FILE NAME,635636,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=635636,,,,,
+NO FILE NAME,639104,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=639104,,,,,
+NO FILE NAME,640466,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=640466,,,,,
+NO FILE NAME,641959,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=641959,,,,,
+NO FILE NAME,642434,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=642434,,,,,
+NO FILE NAME,646980,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=646980,,,,,
+NO FILE NAME,647691,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=647691,,,,,
+NO FILE NAME,648021,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=648021,,,,,
+NO FILE NAME,648874,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=648874,,,,,
+NO FILE NAME,650740,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=650740,,,,,
+NO FILE NAME,653019,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=653019,,,,,
+NO FILE NAME,653685,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=653685,,,,,
+NO FILE NAME,658353,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=658353,,,,,
+NO FILE NAME,660346,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=660346,,,,,
+NO FILE NAME,660766,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=660766,,,,,
+NO FILE NAME,661606,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=661606,,,,,
+NO FILE NAME,663017,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=663017,,,,,
+NO FILE NAME,664535,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=664535,,,,,
+NO FILE NAME,671442,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=671442,,,,,
+NO FILE NAME,671592,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=671592,,,,,
+NO FILE NAME,672427,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=672427,,,,,
+NO FILE NAME,672803,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=672803,,,,,
+NO FILE NAME,675863,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=675863,,,,,
+NO FILE NAME,677281,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=677281,,,,,
+NO FILE NAME,679103,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=679103,,,,,
+NO FILE NAME,682463,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=682463,,,,,
+NO FILE NAME,685159,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=685159,,,,,
+NO FILE NAME,689414,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=689414,,,,,
+NO FILE NAME,690632,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=690632,,,,,
+NO FILE NAME,695260,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=695260,,,,,
+NO FILE NAME,698743,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=698743,,,,,
+NO FILE NAME,700865,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=700865,,,,,
+NO FILE NAME,701551,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=701551,,,,,
+NO FILE NAME,702301,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=702301,,,,,
+NO FILE NAME,703383,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=703383,,,,,
+NO FILE NAME,706626,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=706626,,,,,
+NO FILE NAME,709615,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=709615,,,,,
+NO FILE NAME,709936,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=709936,,,,,
+NO FILE NAME,711562,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=711562,,,,,
+NO FILE NAME,711596,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=711596,,,,,
+NO FILE NAME,712350,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=712350,,,,,
+NO FILE NAME,713736,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=713736,,,,,
+NO FILE NAME,713841,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=713841,,,,,
+NO FILE NAME,715311,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=715311,,,,,
+NO FILE NAME,718631,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=718631,,,,,
+NO FILE NAME,718704,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=718704,,,,,
+NO FILE NAME,719512,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=719512,,,,,
+NO FILE NAME,720565,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=720565,,,,,
+NO FILE NAME,722811,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=722811,,,,,
+NO FILE NAME,723362,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=723362,,,,,
+NO FILE NAME,724225,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=724225,,,,,
+NO FILE NAME,724479,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=724479,,,,,
+NO FILE NAME,726844,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=726844,,,,,
+NO FILE NAME,727507,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=727507,,,,,
+NO FILE NAME,728105,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=728105,,,,,
+NO FILE NAME,728427,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=728427,,,,,
+NO FILE NAME,730547,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=730547,,,,,
+NO FILE NAME,731504,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=731504,,,,,
+NO FILE NAME,732709,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=732709,,,,,
+NO FILE NAME,734143,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=734143,,,,,
+NO FILE NAME,734808,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=734808,,,,,
+NO FILE NAME,735378,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=735378,,,,,
+NO FILE NAME,739825,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=739825,,,,,
+NO FILE NAME,741725,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=741725,,,,,
+NO FILE NAME,743425,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=743425,,,,,
+NO FILE NAME,746048,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=746048,,,,,
+NO FILE NAME,747475,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=747475,,,,,
+NO FILE NAME,748578,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=748578,,,,,
+NO FILE NAME,750935,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=750935,,,,,
+NO FILE NAME,753352,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=753352,,,,,
+NO FILE NAME,755472,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=755472,,,,,
+NO FILE NAME,758552,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=758552,,,,,
+NO FILE NAME,767131,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=767131,,,,,
+NO FILE NAME,769547,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=769547,,,,,
+NO FILE NAME,770554,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=770554,,,,,
+NO FILE NAME,771775,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=771775,,,,,
+NO FILE NAME,775159,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=775159,,,,,
+NO FILE NAME,775279,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=775279,,,,,
+NO FILE NAME,776348,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=776348,,,,,
+NO FILE NAME,781000,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=781000,,,,,
+NO FILE NAME,782061,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=782061,,,,,
+NO FILE NAME,783707,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=783707,,,,,
+NO FILE NAME,784746,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=784746,,,,,
+NO FILE NAME,784900,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=784900,,,,,
+NO FILE NAME,789558,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=789558,,,,,
+NO FILE NAME,794281,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=794281,,,,,
+NO FILE NAME,795827,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=795827,,,,,
+NO FILE NAME,796478,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=796478,,,,,
+NO FILE NAME,800329,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=800329,,,,,
+NO FILE NAME,804684,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=804684,,,,,
+NO FILE NAME,805413,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=805413,,,,,
+NO FILE NAME,808864,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=808864,,,,,
+NO FILE NAME,810342,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=810342,,,,,
+NO FILE NAME,811052,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=811052,,,,,
+NO FILE NAME,811262,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=811262,,,,,
+NO FILE NAME,811295,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=811295,,,,,
+NO FILE NAME,813834,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=813834,,,,,
+NO FILE NAME,815453,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=815453,,,,,
+NO FILE NAME,816397,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=816397,,,,,
+NO FILE NAME,821529,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=821529,,,,,
+NO FILE NAME,823451,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=823451,,,,,
+NO FILE NAME,823634,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=823634,,,,,
+NO FILE NAME,830578,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=830578,,,,,
+NO FILE NAME,830968,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=830968,,,,,
+NO FILE NAME,835482,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=835482,,,,,
+NO FILE NAME,839535,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=839535,,,,,
+NO FILE NAME,842728,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=842728,,,,,
+NO FILE NAME,845672,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=845672,,,,,
+NO FILE NAME,847562,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=847562,,,,,
+NO FILE NAME,849563,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=849563,,,,,
+NO FILE NAME,851043,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=851043,,,,,
+NO FILE NAME,853805,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=853805,,,,,
+NO FILE NAME,853837,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=853837,,,,,
+NO FILE NAME,856631,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=856631,,,,,
+NO FILE NAME,856697,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=856697,,,,,
+NO FILE NAME,857933,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=857933,,,,,
+NO FILE NAME,861363,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=861363,,,,,
+NO FILE NAME,863751,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=863751,,,,,
+NO FILE NAME,865291,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=865291,,,,,
+NO FILE NAME,866161,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=866161,,,,,
+NO FILE NAME,866286,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=866286,,,,,
+NO FILE NAME,869066,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=869066,,,,,
+NO FILE NAME,871039,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=871039,,,,,
+NO FILE NAME,873483,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=873483,,,,,
+NO FILE NAME,874707,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=874707,,,,,
+NO FILE NAME,874949,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=874949,,,,,
+NO FILE NAME,875689,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=875689,,,,,
+NO FILE NAME,875940,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=875940,,,,,
+NO FILE NAME,879319,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=879319,,,,,
+NO FILE NAME,880952,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=880952,,,,,
+NO FILE NAME,887188,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=887188,,,,,
+NO FILE NAME,889595,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=889595,,,,,
+NO FILE NAME,894636,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=894636,,,,,
+NO FILE NAME,896527,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=896527,,,,,
+NO FILE NAME,897328,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=897328,,,,,
+NO FILE NAME,897593,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=897593,,,,,
+NO FILE NAME,898617,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=898617,,,,,
+NO FILE NAME,899340,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=899340,,,,,
+NO FILE NAME,900673,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=900673,,,,,
+NO FILE NAME,901454,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=901454,,,,,
+NO FILE NAME,902020,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=902020,,,,,
+NO FILE NAME,904153,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=904153,,,,,
+NO FILE NAME,906366,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=906366,,,,,
+NO FILE NAME,906448,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=906448,,,,,
+NO FILE NAME,908346,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=908346,,,,,
+NO FILE NAME,912518,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=912518,,,,,
+NO FILE NAME,916737,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=916737,,,,,
+NO FILE NAME,919380,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=919380,,,,,
+NO FILE NAME,919700,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=919700,,,,,
+NO FILE NAME,921590,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=921590,,,,,
+NO FILE NAME,921669,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=921669,,,,,
+NO FILE NAME,923905,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=923905,,,,,
+NO FILE NAME,930515,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=930515,,,,,
+NO FILE NAME,932257,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=932257,,,,,
+NO FILE NAME,933326,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=933326,,,,,
+NO FILE NAME,933354,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=933354,,,,,
+NO FILE NAME,935036,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=935036,,,,,
+NO FILE NAME,5999792,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5999792,,,,,
+NO FILE NAME,6001454,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6001454,,,,,
+NO FILE NAME,6001454,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6001454,,,,,
+NO FILE NAME,6001557,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6001557,,,,,
+NO FILE NAME,6291624,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6291624,,,,,
+NO FILE NAME,6291624,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6291624,,,,,
+NO FILE NAME,6291631,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6291631,,,,,
+NO FILE NAME,6291631,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6291631,,,,,
+NO FILE NAME,6291692,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6291692,,,,,
+NO FILE NAME,6291692,Japanese Juvenile Fiction,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6291692,,,,,
+MATCH,2622455,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\117 T237.2,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2622455,,,117_T237_2,,./One_Off_Printed/117_T237_2
 MATCH,2622454,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\1I7_T237,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2622454,,,1I7_T237,,./1I7_T237
 MATCH,2815774,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\371_3f_ev25,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2815774,,,371_3f_ev25,,./371_3f_ev25
 MATCH,946737,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\378_748_poa1928_15,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=946737,,,378_748_poa1928_15,,./378_748_poa1928_15
@@ -443,13 +443,13 @@ MATCH,1671288,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Pri
 MATCH,1841797,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\bx1965_j618_1629,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1841797,,,bx1965_j618_1629,,./bx1965_j618_1629
 MATCH,1844209,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\bx1966_b4_m36_1743,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1844209,,,bx1966_b4_m36_1743,,./bx1966_b4_m36_1743
 MATCH,2338246,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\C251A,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2338246,,,C251A,,./C251A
-NO MATCH,233849,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\complexities,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=233849,,,complexities,,""
+MATCH,233849,SoutheastAsian,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\complexities,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=233849,,,ComplexitiesSurroundingTheVimalavasahiTempleAtMtAbu,,./One_Off_Printed/SoutheastAsian/ComplexitiesSurroundingTheVimalavasahiTempleAtMtAbu
 MATCH,44682,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\d10_m26_1690b,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=44682,,,d10_m26_1690b,,./d10_m26_1690b
 MATCH,1781227,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\d16_7_p312_1560,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1781227,,,d16_7_p312_1560,,./d16_7_p312_1560
 MATCH,1790517,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\da507_1793_f7_1793,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1790517,,,da507_1793_f7_1793,,./da507_1793_f7_1793
 MATCH,734842,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\DC234_n5,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=734842,,,DC234_n5,,./DC234_n5
-NO MATCH,347471,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\dissertations,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=347471,,,dissertations,,""
-NO MATCH,370165,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\DS331_5_S94_copy,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=370165,,,DS331_5_S94_copy,,""
+MATCH,347471,SoutheastAsian,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\dissertations,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=347471,,,Dissertations,,./One_Off_Printed/SoutheastAsian/Dissertations
+MATCH,370165,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\DS331_5_S94_copy,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=370165,,,DS331_5_S94_cop,,./One_Off_Printed/DS331_5_S94_cop
 MATCH,301396,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\ds335_p64_1980z,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=301396,,,ds335_p64_1980z,,./ds335_p64_1980z
 MATCH,7399699,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\DS902_12_P362_1943,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=7399699,,,DS902_12_P362_1943,,./DS902_12_P362_1943
 MATCH,5925444,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\ec5_g8351_594h_1630,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5925444,,,ec5_g8351_594h_1630,,./ec5_g8351_594h_1630
@@ -464,7 +464,7 @@ MATCH,1750551,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Pri
 MATCH,1525821,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\Folio_EC7_Z47_712So,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1525821,,,Folio_EC7_Z47_712So,,./Folio_EC7_Z47_712So
 MATCH,3138117,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\folio_inc_b280,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3138117,,,folio_inc_b280,,./folio_inc_b280
 MATCH,3286283,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\folio_inc_p_1017,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3286283,,,folio_inc_p_1017,,./folio_inc_p_1017
-NO MATCH,3993909,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\Folio_LatC_C4855_455_1516,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3993909,,,Folio_LatC_C4855_455_1516,,""
+MATCH,3993909,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\Folio_LatC_C4855_455_1516,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3993909,,,Folio_LatC_C4855_45.5_1516,,./One_Off_Printed/Folio_LatC_C4855_45.5_1516
 MATCH,2347311,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\folio_mt654_c58_l47_1568,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2347311,,,folio_mt654_c58_l47_1568,,./folio_mt654_c58_l47_1568
 MATCH,2477406,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\foliodc148_c65_1804,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2477406,,,foliodc148_c65_1804,,./foliodc148_c65_1804
 MATCH,1045629,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\foliods486_b7_b57_1905,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1045629,,,foliods486_b7_b57_1905,,./foliods486_b7_b57_1905
@@ -499,13 +499,13 @@ MATCH,3742389,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Pri
 MATCH,4336157,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\inquisition_broadside,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=4336157,,,inquisition_broadside,,./inquisition_broadside
 MATCH,709417,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\k_p374,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=709417,,,k_p374,,./k_p374
 MATCH,4948542,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\latc_c2994_531c,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=4948542,,,latc_c2994_531c,,./latc_c2994_531c
-NO MATCH,5020873,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\latc_ov403_ei7_1518_wk1,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5020873,,,latc_ov403_ei7_1518_wk1,,""
+MATCH,5020873,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\latc_ov403_ei7_1518_wk1,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5020873,,,latc_ov403_ei7_1518,,./One_Off_Printed/latc_ov403_ei7_1518
 MATCH,1045126,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\lb2371_f6,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1045126,,,lb2371_f6,,./lb2371_f6
 MATCH,6876426,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\LD_4549_5_S68_1953,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6876426,,,LD_4549_5_S68_1953,,./LD_4549_5_S68_1953
-NO MATCH,864181,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\Lea_Z1020_1559b,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=864181,,,Lea_Z1020_1559b,,""
+MATCH,864181,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\Lea_Z1020_1559b,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=864181,,,Lea_Z1020_I559b,,./One_Off_Printed/Lea_Z1020_I559b
 MATCH,46164,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\m1490_m38,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=46164,,,m1490_m38,,./m1490_m38
 MATCH,3555929,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\mapcase_g7650_d45_1800,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3555929,,,mapcase_g7650_d45_1800,,./mapcase_g7650_d45_1800
-NO MATCH,594061,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\ML3920_R7,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=594061,,,ML3920_R7,,""
+MATCH,594061,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\ML3920_R7,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=594061,,,ML3920_R7_1758,,./One_Off_Printed/ML3920_R7_1758
 MATCH,7013166,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\Ms_Coll_1217_box1_folder3,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=7013166,,,Ms_Coll_1217_box1_folder3,,./Ms_Coll_1217_box1_folder3
 MATCH,4477457,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\N_8_17,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=4477457,,,N_8_17,,./N_8_17
 MATCH,4374261,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\na3700_b6_1866,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=4374261,,,na3700_b6_1866,,./na3700_b6_1866
@@ -518,18 +518,18 @@ MATCH,4123419,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Pri
 MATCH,1693595,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\pr_4001_a45_h66_1850,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1693595,,,pr_4001_a45_h66_1850,,./pr_4001_a45_h66_1850
 MATCH,260985,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\pr3291_a1_b35_1729b,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=260985,,,pr3291_a1_b35_1729b,,./pr3291_a1_b35_1729b
 MATCH,991696,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\pr3317l7_1694,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=991696,,,pr3317l7_1694,,./pr3317l7_1694
-NO MATCH,105039,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\pr3359_c5t72_1781,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=105039,,,pr3359_c5t72_1781,,""
+MATCH,105039,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\pr3359_c5t72_1781,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=105039,,,pr3359_c5_t72_1781,,./One_Off_Printed/pr3359_c5_t72_1781
 MATCH,1801343,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\pr3369_c7_h5_1751,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1801343,,,pr3369_c7_h5_1751,,./pr3369_c7_h5_1751
 MATCH,159461,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\PR3639_P445_V57_1784,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=159461,,,PR3639_P445_V57_1784,,./EarlyNovelsDigitization/PR3639_P445_V57_1784
-NO MATCH,6252723,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\print_coll23_fldr18_0001,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6252723,,,print_coll23_fldr18_0001,,""
-NO MATCH,203330,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\psas_I,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=203330,,,psas_I,,""
-NO MATCH,958702,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\psas_II,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=958702,,,psas_II,,""
-NO MATCH,959701,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\psas_III,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=959701,,,psas_III,,""
-NO MATCH,1004147,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\psas_IV,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1004147,,,psas_IV,,""
+MATCH,6252723,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\print_coll23_fldr18_0001,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6252723,,,Print_coll23_fldr18,,./One_Off_Printed/Print_coll23_fldr18
+MATCH,203330,SoutheastAsian,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\psas_I,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=203330,,,PSAS_I,,./One_Off_Printed/SoutheastAsian/PSAS_I
+MATCH,958702,SoutheastAsian,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\psas_II,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=958702,,,PSAS_III,,./One_Off_Printed/SoutheastAsian/PSAS_II
+MATCH,959701,SoutheastAsian,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\psas_III,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=959701,,,PSAS_III,,./One_Off_Printed/SoutheastAsian/PSAS_III
+MATCH,1004147,SoutheastAsian,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\psas_IV,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1004147,,,PSAS_IV,,./One_Off_Printed/SoutheastAsian/PSAS_IV
 MATCH,584317,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\pt_2387_a3_s66_1800b,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=584317,,,pt_2387_a3_s66_1800b,,./pt_2387_a3_s66_1800b
 MATCH,6426134,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\PT1709_B49_L8_1520,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6426134,,,PT1709_B49_L8_1520,,./PT1709_B49_L8_1520
-NO MATCH,2343691,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\r128_7_r515_pt1,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2343691,,,r128_7_r515_pt1,,""
-NO MATCH,366292,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\referencesources,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=366292,,,referencesources,,""
+MATCH,2343691,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\r128_7_r515_pt1,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2343691,,,r128_7_r515,,./One_Off_Printed/r128_7_r515
+MATCH,366292,SoutheastAsian,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\referencesources,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=366292,,,ReferenceSources,,./One_Off_Printed/SoutheastAsian/ReferenceSources
 MATCH,218927,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\s108_p5_p4833_1985,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=218927,,,s108_p5_p4833_1985,,./s108_p5_p4833_1985
 MATCH,4396736,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\S25_1_3,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=4396736,,,S25_1_3,,./S25_1_3
 MATCH,3390936,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\sc5_m2934_525h_1535,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3390936,,,sc5_m2934_525h_1535,,./sc5_m2934_525h_1535
@@ -545,26 +545,26 @@ MATCH,1092986,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Pri
 MATCH,797575,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\TP590_N48,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=797575,,,TP590_N48,,./TP590_N48
 MATCH,3807229,Other,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\Z999_C38_1764,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3807229,,,Z999_C38_1764,,./Z999_C38_1764
 MATCH,938478,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\560_9782_ei83,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=938478,,,560_9782_ei83,,./560_9782_ei83
-NO MATCH,1078458,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\606_ph1876_27_v1-2,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1078458,,,606_ph1876_27_v1-2,,""
+MATCH,1078458,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\606_ph1876_27_v1-2,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1078458,,,606_Ph1876_27_V1-2,,./One_Off_Printed/606_Ph1876_27_V1-2
 MATCH,956095,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\bf1475_h2_1907,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=956095,,,bf1475_h2_1907,,./bf1475_h2_1907
 MATCH,7231981,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\BF1681_E7_1694,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=7231981,,,BF1681_E7_1694,,./BF1681_E7_1694
 MATCH,197654,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\bv4310a13_1764,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=197654,,,bv4310a13_1764,,./bv4310a13_1764
 MATCH,360680,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\curtis_608,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=360680,,,curtis_608,,./curtis_608
 MATCH,2934321,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\curtis455,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2934321,,,curtis455,,./curtis455
 MATCH,2925749,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\curtis84,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2925749,,,curtis84,,./curtis84
-NO MATCH,7253175,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\DS833_K3712281,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=7253175,,,DS833_K3712281,,""
+MATCH,7253175,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\DS833_K3712281,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=7253175,,,DS833_K37,,./One_Off_Printed/DS833_K37
 MATCH,1341633,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\E311_H9_1796,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1341633,,,E311_H9_1796,,./E311_H9_1796
 MATCH,5910114,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\EC7_T3852_730t,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5910114,,,EC7_T3852_730t,,./EC7_T3852_730t
 MATCH,5851440,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\FC55_ES868_EF575C,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5851440,,,FC55_ES868_EF575C,,./FC55_ES868_EF575C
-NO MATCH,1037285,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\folio_b127_n4_x56_1556_v1-32,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1037285,,,folio_b127_n4_x56_1556_v1-32,,""
+MATCH,1037285,Chinese_prose_anthology,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\folio_b127_n4_x56_1556_v1-32,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1037285,,,folio_b127_n4_x56_1556,,./One_Off_Printed/Chinese_prose_anthology/folio_b127_n4_x56_1556
 MATCH,3188716,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\folio_inc_c574,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3188716,,,folio_inc_c574,,./folio_inc_c574
 MATCH,3441687,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\Folio_PR2399_W7_C68_1621,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3441687,,,Folio_PR2399_W7_C68_1621,,./Folio_PR2399_W7_C68_1621
 MATCH,6768025,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\FranklinBroadside,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6768025,,,FranklinBroadside,,./FranklinBroadside
-NO MATCH,673396,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\he4491_p52_1916,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=673396,,,he4491_p52_1916,,""
+MATCH,673396,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\he4491_p52_1916,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=673396,,,HE4491_p52_1916,,./One_Off_Printed/HE4491_p52_1916
 MATCH,3242104,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\inc_l_124,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3242104,,,inc_l_124,,./inc_l_124
 MATCH,3742364,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\inc_p_1112,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3742364,,,inc_p_1112,,./inc_p_1112
-NO MATCH,5407314,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\IndC_B6397_846r_full,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5407314,,,IndC_B6397_846r_full,,""
-NO MATCH,1968113,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\kf355_p55_m3_1883a,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1968113,,,kf355_p55_m3_1883a,,""
+MATCH,5407314,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\IndC_B6397_846r_full,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5407314,,,IndC_B6397_846r,,./One_Off_Printed/IndC_B6397_846r
+MATCH,1968113,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\kf355_p55_m3_1883a,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1968113,,,KF_355_p55_m3_1883a,,./One_Off_Printed/KF_355_p55_m3_1883a
 MATCH,1882817,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\kjbible,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1882817,,,kjbible,,./OldERICTransfers/kjbible
 MATCH,2511712,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\M420B,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2511712,,,M420B,,./M420B
 MATCH,7116466,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\MT6_A2_M67_1608,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=7116466,,,MT6_A2_M67_1608,,./MT6_A2_M67_1608
@@ -572,94 +572,94 @@ MATCH,590803,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Pri
 MATCH,1734233,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\PA_2084_073_1759,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1734233,,,PA_2084_073_1759,,./PA_2084_073_1759
 MATCH,6379283,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\pa6501_a2_1539,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6379283,,,pa6501_a2_1539,,./furness_pa6501_a2_1539
 NO MATCH,6395582,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\pa6501_a2_1539_body0421,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6395582,,,pa6501_a2_1539_body0421,,""
-NO MATCH,959924,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\pa6803_b24_h44_1572_0001,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=959924,,,pa6803_b24_h44_1572_0001,,""
+MATCH,959924,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\pa6803_b24_h44_1572_0001,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=959924,,,pa6803_b24_h44_1572,,./One_Off_Printed/pa6803_b24_h44_1572
 MATCH,2342306,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\PF3109M56,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2342306,,,PF3109M56,,./PF3109M56
 MATCH,197007,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\pf3114n35_1761,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=197007,,,pf3114n35_1761,,./pf3114n35_1761
 MATCH,3285454,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\pl248_h834_a17_1914,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3285454,,,pl248_h834_a17_1914,,./ottoman_brittles/pl248h834a171914
-NO MATCH,3510894,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\pl2607_x875_1705_v1-64,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3510894,,,pl2607_x875_1705_v1-64,,""
+MATCH,3510894,Chinese_prose_anthology,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\pl2607_x875_1705_v1-64,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3510894,,,pl2607_x875_1705,,./One_Off_Printed/Chinese_prose_anthology/pl2607_x875_1705
 MATCH,644501,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\pl3052_5_h628,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=644501,,,pl3052_5_h628,,./pl3052_5_h628
 MATCH,7210520,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\PR2382_S25_1642,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=7210520,,,PR2382_S25_1642,,./PR2382_S25_1642
 MATCH,3994056,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\PR3732_T7_1730,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3994056,,,PR3732_T7_1730,,./PR3732_T7_1730
 MATCH,3997251,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\PR3732_T7_1730b,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3997251,,,PR3732_T7_1730b,,./PR3732_T7_1730b
 MATCH,4504566,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\S_20_5_17,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=4504566,,,S_20_5_17,,./S_20_5_17
 MATCH,4818797,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\S25_3_43,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=4818797,,,S25_3_43,,./S25_3_43
-NO MATCH,2490015,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\z232_f8_c9_1918a,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2490015,,,z232_f8_c9_1918a,,""
+MATCH,2490015,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\z232_f8_c9_1918a,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2490015,,,Z_232_F8_C9_1918A,,./One_Off_Printed/Z_232_F8_C9_1918A
 NO MATCH,1910865,Other*,sceti-completed\One_Off_Printed\,sceti-completed\One_Off_Printed\z953_l8839x_1886_wk1,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1910865,,,z953_l8839x_1886_wk1,,""
-MATCH,1872683,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\ay1187_n487,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1872683,,,ay1187_n487,"Other: Nevsal-i marifet / [haz.] Ebüzziya Tevfik."" alt=""Other: Nevsal-i marifet / [haz.] Ebüzziya Tevfik.""></td>",./ottoman_brittles/ay1187n487
-MATCH,6219861,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\bp163_m446_1917,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6219861,,,bp163_m446_1917,"Other: Mehmet Sait Halim Paşa, 1863-1921 - Taassub / Mehmet."" alt=""Other: Mehmet Sait Halim Paşa, 1863-1921 - Taassub / Mehmet.""></td>",./ottoman_brittles/bp163m4461917
-MATCH,3273854,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\bp187_b57_1866,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3273854,,,bp187_b57_1866,"Other: Birgivî Mehmet Efendi, approximately 1522-1573 - Risale-i Birgivi."" alt=""Other: Birgivî Mehmet Efendi, approximately 1522-1573 - Risale-i Birgivi.""></td>",./ottoman_brittles/bp187b571866
-MATCH,3277836,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\bp188_9_b423_y35_1924,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3277836,,,bp188_9_b423_y35_1924,"Other: Yaltkaya, M. Şerefeddin, 1879-1947 - Simavne Kadısıoğlu Şeyh Bedrettin / muharriri, Mehmet Şerefeddin."" alt=""Other: Yaltkaya, M. Şerefeddin, 1879-1947 - Simavne Kadısıoğlu Şeyh Bedrettin / muharriri, Mehmet Şerefeddin.""></td>",./ottoman_brittles/bp1889b423y351924
-MATCH,3283053,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\bp189_6_r5419_1887,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3283053,,,bp189_6_r5419_1887,"Other: Rifāʻī, Aḥmad ibn ʻAlī, 1106?-1182 - Hükm ül-Rıfai / [toplayan ve tercüme eden] Muallim Naci."" alt=""Other: Rifāʻī, Aḥmad ibn ʻAlī, 1106?-1182 - Hükm ül-Rıfai / [toplayan ve tercüme eden] Muallim Naci.""></td>",./ottoman_brittles/bp189_6_r5419_1887
+MATCH,1872683,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\ay1187_n487,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1872683,,,ay1187_n487,"Other: Nevsal-i marifet / [haz.] Ebu虉zziya Tevfik."" alt=""Other: Nevsal-i marifet / [haz.] Ebu虉zziya Tevfik.""></td>",./ottoman_brittles/ay1187n487
+MATCH,6219861,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\bp163_m446_1917,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6219861,,,bp163_m446_1917,"Other: Mehmet Sait Halim Pas抬a, 1863-1921 - Taassub / Mehmet."" alt=""Other: Mehmet Sait Halim Pas抬a, 1863-1921 - Taassub / Mehmet.""></td>",./ottoman_brittles/bp163m4461917
+MATCH,3273854,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\bp187_b57_1866,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3273854,,,bp187_b57_1866,"Other: Birgivi虃 Mehmet Efendi, approximately 1522-1573 - Risale-i Birgivi."" alt=""Other: Birgivi虃 Mehmet Efendi, approximately 1522-1573 - Risale-i Birgivi.""></td>",./ottoman_brittles/bp187b571866
+MATCH,3277836,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\bp188_9_b423_y35_1924,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3277836,,,bp188_9_b423_y35_1924,"Other: Yaltkaya, M. S抬erefeddin, 1879-1947 - Simavne Kad谋s谋og虇lu S抬eyh Bedrettin / muharriri, Mehmet S抬erefeddin."" alt=""Other: Yaltkaya, M. S抬erefeddin, 1879-1947 - Simavne Kad谋s谋og虇lu S抬eyh Bedrettin / muharriri, Mehmet S抬erefeddin.""></td>",./ottoman_brittles/bp1889b423y351924
+MATCH,3283053,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\bp189_6_r5419_1887,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3283053,,,bp189_6_r5419_1887,"Other: Rifa虅驶i虅, Ah蹋mad ibn 驶Ali虅, 1106?-1182 - Hu虉km u虉l-R谋fai / [toplayan ve tercu虉me eden] Muallim Naci."" alt=""Other: Rifa虅驶i虅, Ah蹋mad ibn 驶Ali虅, 1106?-1182 - Hu虉km u虉l-R谋fai / [toplayan ve tercu虉me eden] Muallim Naci.""></td>",./ottoman_brittles/bp189_6_r5419_1887
 MATCH,3289965,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\cb220_d38317_1914,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3289965,,,cb220_d38317_1914,"Other: Demolins, Edmond, 1852-1907 - Anglusaksunlarin esbab-i faikiyeti nedir? / muellifi, Idmun Dahmulan ; mutarjimlari, A. Fuat, A. Naci."" alt=""Other: Demolins, Edmond, 1852-1907 - Anglusaksunlarin esbab-i faikiyeti nedir? / muellifi, Idmun Dahmulan ; mutarjimlari, A. Fuat, A. Naci.""></td>",./ottoman_brittles/cb220d383171914
-MATCH,3279869,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\cd251_m44_1914,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3279869,,,cd251_m44_1914,"Other: Mehmet Memduh Paşa, 1839-1925 - Bedayi-i asar / Mehmet Memduh."" alt=""Other: Mehmet Memduh Paşa, 1839-1925 - Bedayi-i asar / Mehmet Memduh.""></td>",./ottoman_brittles/cd251m441914
-MATCH,3279451,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\d11_h34_1909,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3279451,,,d11_h34_1909,"Other: Hafız İbrahim Âgâh Paşa, -1916 - Vakayi-yi tarihiye / eser-i Hafız İbrahim Âgâh Paşa."" alt=""Other: Hafız İbrahim Âgâh Paşa, -1916 - Vakayi-yi tarihiye / eser-i Hafız İbrahim Âgâh Paşa.""></td>",./ottoman_brittles/d11_h34_1909
-MATCH,3278587,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\d373_s6719_1911,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3278587,,,d373_s6719_1911,"Other: Sorel, Albert, 1842-1906 - On sekizinci asırda Mesele-yi Şarkiye ve Kaynarca Muahedesi : Muallim Alber Sorelʼin Question d'Orient au XVIIIme siècle unvanlı eser-i meşhurı̂nin tercüme-yi kâmilesidir / [mütercimi] Yusuf Ziya."" alt=""Other: Sorel, Albert, 1842-1906 - On sekizinci asırda Mesele-yi Şarkiye ve Kaynarca Muahedesi : Muallim Alber Sorelʼin Question d'Orient au XVIIIme siècle unvanlı eser-i meşhurı̂nin tercüme-yi kâmilesidir / [mütercimi] Yusuf Ziya.""></td>",./ottoman_brittles/d373s67191911
-MATCH,3279489,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\d565_a2_a38_1917,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3279489,,,d565_a2_a38_1917,"Other: Ahmet Rasim, 1864?-1932 - Romanya mektupları / Ahmet Rasim."" alt=""Other: Ahmet Rasim, 1864?-1932 - Romanya mektupları / Ahmet Rasim.""></td>",./ottoman_brittles/d565_a2_a38_1917
-MATCH,3287351,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dc132_y57_1800z,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3287351,,,dc132_y57_1800z,"Other: Yirmisekiz Mehmet Çelebi, -1732 - Bin yüz otuz iki tarihinde Devlet-i Aliye-yi Osmaniye tarafından elçilik ile Fransa'ya azimet etmiş olan Mehmet Efendi'nin sefaretnamesidir."" alt=""Other: Yirmisekiz Mehmet Çelebi, -1732 - Bin yüz otuz iki tarihinde Devlet-i Aliye-yi Osmaniye tarafından elçilik ile Fransa'ya azimet etmiş olan Mehmet Efendi'nin sefaretnamesidir.""></td>",./ottoman_brittles/dc132y571800z
-MATCH,3280039,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dc213_2_a4187_1900a,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3280039,,,dc213_2_a4187_1900a,"Other: Napoleon I, Emperor of the French, 1769-1821 - Napolyon'un âsâr-ı müntahabesi / mütercimi, Ahmet Refik."" alt=""Other: Napoleon I, Emperor of the French, 1769-1821 - Napolyon'un âsâr-ı müntahabesi / mütercimi, Ahmet Refik.""></td>",./ottoman_brittles/dc213_2_a4187_1900a
-MATCH,1607505,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr436_s453_1913,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1607505,,,dr436_s453_1913,"Other: Selânikli Hilmi - Musavver büyük Osmanlı tarihi / Selânikli Hilmi."" alt=""Other: Selânikli Hilmi - Musavver büyük Osmanlı tarihi / Selânikli Hilmi.""></td>",./ottoman_brittles/dr436s4531913
-MATCH,1902203,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr438_1_m446_1911,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1902203,,,dr438_1_m446_1911,"Other: Mehmet Memduh Paşa, 1839-1925 - Halʼler-iclâslar / müellifi, Mehmet Memduh."" alt=""Other: Mehmet Memduh Paşa, 1839-1925 - Halʼler-iclâslar / müellifi, Mehmet Memduh.""></td>",./ottoman_brittles/dr4381m4461911
-MATCH,3278592,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr476_i44_1914,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3278592,,,dr476_i44_1914,"Other: İleri, Celâl Nuri, 1877-1939 - İttihad-ı İslam ve Almanya / Celal Nuri."" alt=""Other: İleri, Celâl Nuri, 1877-1939 - İttihad-ı İslam ve Almanya / Celal Nuri.""></td>",./ottoman_brittles/dr476i441914
-MATCH,3280033,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr479_g7,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3280033,,,dr479_g7,"Other: Çerkesşeyhizade Halil Halit, 1869-1931 - Türk hakimiyeti ve İngiliz cihangirliği / eser-i M. Halil Halid."" alt=""Other: Çerkesşeyhizade Halil Halit, 1869-1931 - Türk hakimiyeti ve İngiliz cihangirliği / eser-i M. Halil Halid.""></td>",./ottoman_brittles/dr479g7
-MATCH,3282911,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr481_e684_1928,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3282911,,,dr481_e684_1928,"Other: Enverî, active 1465 - Düsturnamei Enverı̂ : Pariste millı̂ kütüpanede bulunan yegâne nüshadan Mükrimin Halil Bey tarafından istinsah ve neşredilen bu eser mumaileyhin bir mukaddemesini muhtevidir."" alt=""Other: Enverî, active 1465 - Düsturnamei Enverı̂ : Pariste millı̂ kütüpanede bulunan yegâne nüshadan Mükrimin Halil Bey tarafından istinsah ve neşredilen bu eser mumaileyhin bir mukaddemesini muhtevidir.""></td>",./ottoman_brittles/dr481_e684_1928
-MATCH,3278591,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr486_m534_1910,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3278591,,,dr486_m534_1910,"Other: Midhat Paşa, 1822-1884 - Türkiye'nin mâzisi ve istikbali / muharriri, Midhat Paşa, mütercimi, A. R."" alt=""Other: Midhat Paşa, 1822-1884 - Türkiye'nin mâzisi ve istikbali / muharriri, Midhat Paşa, mütercimi, A. R.""></td>",./ottoman_brittles/dr486m5341910
+MATCH,3279869,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\cd251_m44_1914,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3279869,,,cd251_m44_1914,"Other: Mehmet Memduh Pas抬a, 1839-1925 - Bedayi-i asar / Mehmet Memduh."" alt=""Other: Mehmet Memduh Pas抬a, 1839-1925 - Bedayi-i asar / Mehmet Memduh.""></td>",./ottoman_brittles/cd251m441914
+MATCH,3279451,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\d11_h34_1909,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3279451,,,d11_h34_1909,"Other: Haf谋z I虈brahim A虃ga虃h Pas抬a, -1916 - Vakayi-yi tarihiye / eser-i Haf谋z I虈brahim A虃ga虃h Pas抬a."" alt=""Other: Haf谋z I虈brahim A虃ga虃h Pas抬a, -1916 - Vakayi-yi tarihiye / eser-i Haf谋z I虈brahim A虃ga虃h Pas抬a.""></td>",./ottoman_brittles/d11_h34_1909
+MATCH,3278587,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\d373_s6719_1911,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3278587,,,d373_s6719_1911,"Other: Sorel, Albert, 1842-1906 - On sekizinci as谋rda Mesele-yi S抬arkiye ve Kaynarca Muahedesi : Muallim Alber Sorel始in Question d'Orient au XVIIIme sie虁cle unvanl谋 eser-i mes抬hur谋虃nin tercu虉me-yi ka虃milesidir / [mu虉tercimi] Yusuf Ziya."" alt=""Other: Sorel, Albert, 1842-1906 - On sekizinci as谋rda Mesele-yi S抬arkiye ve Kaynarca Muahedesi : Muallim Alber Sorel始in Question d'Orient au XVIIIme sie虁cle unvanl谋 eser-i mes抬hur谋虃nin tercu虉me-yi ka虃milesidir / [mu虉tercimi] Yusuf Ziya.""></td>",./ottoman_brittles/d373s67191911
+MATCH,3279489,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\d565_a2_a38_1917,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3279489,,,d565_a2_a38_1917,"Other: Ahmet Rasim, 1864?-1932 - Romanya mektuplar谋 / Ahmet Rasim."" alt=""Other: Ahmet Rasim, 1864?-1932 - Romanya mektuplar谋 / Ahmet Rasim.""></td>",./ottoman_brittles/d565_a2_a38_1917
+MATCH,3287351,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dc132_y57_1800z,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3287351,,,dc132_y57_1800z,"Other: Yirmisekiz Mehmet C抬elebi, -1732 - Bin yu虉z otuz iki tarihinde Devlet-i Aliye-yi Osmaniye taraf谋ndan elc抬ilik ile Fransa'ya azimet etmis抬 olan Mehmet Efendi'nin sefaretnamesidir."" alt=""Other: Yirmisekiz Mehmet C抬elebi, -1732 - Bin yu虉z otuz iki tarihinde Devlet-i Aliye-yi Osmaniye taraf谋ndan elc抬ilik ile Fransa'ya azimet etmis抬 olan Mehmet Efendi'nin sefaretnamesidir.""></td>",./ottoman_brittles/dc132y571800z
+MATCH,3280039,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dc213_2_a4187_1900a,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3280039,,,dc213_2_a4187_1900a,"Other: Napoleon I, Emperor of the French, 1769-1821 - Napolyon'un a虃sa虃r-谋 mu虉ntahabesi / mu虉tercimi, Ahmet Refik."" alt=""Other: Napoleon I, Emperor of the French, 1769-1821 - Napolyon'un a虃sa虃r-谋 mu虉ntahabesi / mu虉tercimi, Ahmet Refik.""></td>",./ottoman_brittles/dc213_2_a4187_1900a
+MATCH,1607505,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr436_s453_1913,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1607505,,,dr436_s453_1913,"Other: Sela虃nikli Hilmi - Musavver bu虉yu虉k Osmanl谋 tarihi / Sela虃nikli Hilmi."" alt=""Other: Sela虃nikli Hilmi - Musavver bu虉yu虉k Osmanl谋 tarihi / Sela虃nikli Hilmi.""></td>",./ottoman_brittles/dr436s4531913
+MATCH,1902203,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr438_1_m446_1911,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1902203,,,dr438_1_m446_1911,"Other: Mehmet Memduh Pas抬a, 1839-1925 - Hal始ler-icla虃slar / mu虉ellifi, Mehmet Memduh."" alt=""Other: Mehmet Memduh Pas抬a, 1839-1925 - Hal始ler-icla虃slar / mu虉ellifi, Mehmet Memduh.""></td>",./ottoman_brittles/dr4381m4461911
+MATCH,3278592,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr476_i44_1914,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3278592,,,dr476_i44_1914,"Other: I虈leri, Cela虃l Nuri, 1877-1939 - I虈ttihad-谋 I虈slam ve Almanya / Celal Nuri."" alt=""Other: I虈leri, Cela虃l Nuri, 1877-1939 - I虈ttihad-谋 I虈slam ve Almanya / Celal Nuri.""></td>",./ottoman_brittles/dr476i441914
+MATCH,3280033,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr479_g7,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3280033,,,dr479_g7,"Other: C抬erkess抬eyhizade Halil Halit, 1869-1931 - Tu虉rk hakimiyeti ve I虈ngiliz cihangirlig虇i / eser-i M. Halil Halid."" alt=""Other: C抬erkess抬eyhizade Halil Halit, 1869-1931 - Tu虉rk hakimiyeti ve I虈ngiliz cihangirlig虇i / eser-i M. Halil Halid.""></td>",./ottoman_brittles/dr479g7
+MATCH,3282911,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr481_e684_1928,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3282911,,,dr481_e684_1928,"Other: Enveri虃, active 1465 - Du虉sturnamei Enver谋虃 : Pariste mill谋虃 ku虉tu虉panede bulunan yega虃ne nu虉shadan Mu虉krimin Halil Bey taraf谋ndan istinsah ve nes抬redilen bu eser mumaileyhin bir mukaddemesini muhtevidir."" alt=""Other: Enveri虃, active 1465 - Du虉sturnamei Enver谋虃 : Pariste mill谋虃 ku虉tu虉panede bulunan yega虃ne nu虉shadan Mu虉krimin Halil Bey taraf谋ndan istinsah ve nes抬redilen bu eser mumaileyhin bir mukaddemesini muhtevidir.""></td>",./ottoman_brittles/dr481_e684_1928
+MATCH,3278591,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr486_m534_1910,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3278591,,,dr486_m534_1910,"Other: Midhat Pas抬a, 1822-1884 - Tu虉rkiye'nin ma虃zisi ve istikbali / muharriri, Midhat Pas抬a, mu虉tercimi, A. R."" alt=""Other: Midhat Pas抬a, 1822-1884 - Tu虉rkiye'nin ma虃zisi ve istikbali / muharriri, Midhat Pas抬a, mu虉tercimi, A. R.""></td>",./ottoman_brittles/dr486m5341910
 MATCH,3285379,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr501_a39_1923,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3285379,,,dr501_a39_1923,"Other: Ahmet Refik, 1880 or 1881-1937 - Sultan Cem : (864-900) / Ahmet Refik."" alt=""Other: Ahmet Refik, 1880 or 1881-1937 - Sultan Cem : (864-900) / Ahmet Refik.""></td>",./ottoman_brittles/dr501_a39_1923
-MATCH,3283085,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr506_a46_1909,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3283085,,,dr506_a46_1909,"Other: Ahmet Refik, 1880 or 1881-1937 - Devr-i Süleyman-ı Kanunı̂de Birinci Viyana Muhasarası : 936 H, 1529 M / Ahmed Refik."" alt=""Other: Ahmet Refik, 1880 or 1881-1937 - Devr-i Süleyman-ı Kanunı̂de Birinci Viyana Muhasarası : 936 H, 1529 M / Ahmed Refik.""></td>",./ottoman_brittles/dr506a461909
-MATCH,3283393,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr544_r44_1911,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3283393,,,dr544_r44_1911,"Other: Ahmet Refik, 1880 or 1881-1937 - Baltacı Mehmet Paşa ve Büyük Petro, 1711-1911"" alt=""Other: Ahmet Refik, 1880 or 1881-1937 - Baltacı Mehmet Paşa ve Büyük Petro, 1711-1911""></td>",./ottoman_brittles/dr544_r44_1911
-MATCH,3281865,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr553_a37_1869,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3281865,,,dr553_a37_1869,"Other: Ahmet Resmî Efendi, Giridî, 1700-1783 - Devlet-i Âliye canibinden Prusya kralı meşhur Büyük Frederik nezdine sefir tayîn kılınmış olan Kethüda-yi Sadr-i Âl-i Giridî Ahmet Resmî Efendinin ... Hulâsat ül-itibar nam-i tarihçesidir."" alt=""Other: Ahmet Resmî Efendi, Giridî, 1700-1783 - Devlet-i Âliye canibinden Prusya kralı meşhur Büyük Frederik nezdine sefir tayîn kılınmış olan Kethüda-yi Sadr-i Âl-i Giridî Ahmet Resmî Efendinin ... Hulâsat ül-itibar nam-i tarihçesidir.""></td>",./ottoman_brittles/dr553_a37_1869
-MATCH,6229137,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr557_a35_1924_v2,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6229137,,,dr557_a35_1924_v2,"Other: Ahmet Rasim, 1864?-1932 - İstibdattan hâkimiyet-i milliyeye / Ahmet Rasim."" alt=""Other: Ahmet Rasim, 1864?-1932 - İstibdattan hâkimiyet-i milliyeye / Ahmet Rasim.""></td>",./ottoman_brittles/dr557_a35_1924_v2
-MATCH,3280071,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr568_8_gh3_a3_1917,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3280071,,,dr568_8_gh3_a3_1917,"Other: Hayreddin Nedim - Bir elçinin tarihçe-i sefareti, 1207-1208 / Hayreddin Nedim."" alt=""Other: Hayreddin Nedim - Bir elçinin tarihçe-i sefareti, 1207-1208 / Hayreddin Nedim.""></td>",./ottoman_brittles/dr5688gh3a31917
-MATCH,3283309,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr568_8_m68_a3_1913,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3283309,,,dr568_8_m68_a3_1913,"Other: Mizancı Murad, 1853-1914? - Meskenet maʻzeret teşkil eder mi : Mücahede-yi milliyeden : Mizan-ı kadim ve Düyun-ı umumiye komiserliği devirleri / eser-i Ebülfaruk."" alt=""Other: Mizancı Murad, 1853-1914? - Meskenet maʻzeret teşkil eder mi : Mücahede-yi milliyeden : Mizan-ı kadim ve Düyun-ı umumiye komiserliği devirleri / eser-i Ebülfaruk.""></td>",./ottoman_brittles/dr5688m68a31913
-MATCH,3280138,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr568_8_s23_m4_1911,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3280138,,,dr568_8_s23_m4_1911,"Other: Mehmet Galip, 1865-1935 - Sadullah Paşa yahut mezardan nida / muellifi, Mehmet Galip Bey."" alt=""Other: Mehmet Galip, 1865-1935 - Sadullah Paşa yahut mezardan nida / muellifi, Mehmet Galip Bey.""></td>",./ottoman_brittles/dr5688s23m41911
-MATCH,3278289,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr568_8_s93_a3_1925,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3278289,,,dr568_8_s93_a3_1925,"Other: Süleyman Nazif, 1869-1927 - İki dost : yeni vesaik-i ibtina ile yazılmışdır / Süleyman Nazif."" alt=""Other: Süleyman Nazif, 1869-1927 - İki dost : yeni vesaik-i ibtina ile yazılmışdır / Süleyman Nazif.""></td>",./ottoman_brittles/dr5688s93a31925
-MATCH,3280430,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr568_b37_1909,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3280430,,,dr568_b37_1909,"Other: Basiretçi Ali, 1845?-1910? - İstanbul'da yarım asırlık vakayi-yi mühimme / muharriri, Ali."" alt=""Other: Basiretçi Ali, 1845?-1910? - İstanbul'da yarım asırlık vakayi-yi mühimme / muharriri, Ali.""></td>",./ottoman_brittles/dr568b371909
-MATCH,3277894,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr568_y87_1891,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3277894,,,dr568_y87_1891,"Other: Yusuf Kâmil Paşa, 1808-1876 - Eser-i Kâmil Paşa / müellifi merhum Kâmil Paşa."" alt=""Other: Yusuf Kâmil Paşa, 1808-1876 - Eser-i Kâmil Paşa / müellifi merhum Kâmil Paşa.""></td>",./ottoman_brittles/dr568y871891
-MATCH,3279320,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr569_s85_1908,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3279320,,,dr569_s85_1908,"Other: Süleyman Paşa, 1838-1892 - Hiss-i inkılâp : yahut Sultan Abdülazizin ḫalʻi ile Sultan Murad-ı ḫāmisiñ cülusu / muharriri, Süleyman Paşa."" alt=""Other: Süleyman Paşa, 1838-1892 - Hiss-i inkılâp : yahut Sultan Abdülazizin ḫalʻi ile Sultan Murad-ı ḫāmisiñ cülusu / muharriri, Süleyman Paşa.""></td>",./ottoman_brittles/dr569s851908
-MATCH,3279971,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr569_t48_1906,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3279971,,,dr569_t48_1906,"Other: Nureddin Tevfik - Sultan Azizʼin hal'i ve intiharı / Tevfik Nureddin."" alt=""Other: Nureddin Tevfik - Sultan Azizʼin hal'i ve intiharı / Tevfik Nureddin.""></td>",./ottoman_brittles/dr569t481906
-MATCH,3280089,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr571_a138_1918,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3280089,,,dr571_a138_1918,"Other: Abdurrahman Şeref, 1853-1925 - Sultan Abdülhamid-i Sanı̂ʼye dair / [yazanlar] Abdürrahman Şeref [ve] Ahmed Refik."" alt=""Other: Abdurrahman Şeref, 1853-1925 - Sultan Abdülhamid-i Sanı̂ʼye dair / [yazanlar] Abdürrahman Şeref [ve] Ahmed Refik.""></td>",./ottoman_brittles/dr571a1381918
-MATCH,3283405,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr572_y86_1909,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3283405,,,dr572_y86_1909,"Other: Yunus Nadi, 1880-1945 - İhtilâl ve inkilâb-ı Osmanî, 31 Mart-14 Nisan 1325 [1909] : hâdisat, ihtisasat, hakayik / Yunus Nadi."" alt=""Other: Yunus Nadi, 1880-1945 - İhtilâl ve inkilâb-ı Osmanî, 31 Mart-14 Nisan 1325 [1909] : hâdisat, ihtisasat, hakayik / Yunus Nadi.""></td>",./ottoman_brittles/dr572y861909
-MATCH,3283439,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr573_3_s249_1913,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3283439,,,dr573_3_s249_1913,"Other: Abdülkadir Kemali, 1889-1949 - (Şehzâde) Gazi Süleyman Paşa'nin vekayi'-i tarihiyesi / sahib-i eser, Abdülkadir Kemali."" alt=""Other: Abdülkadir Kemali, 1889-1949 - (Şehzâde) Gazi Süleyman Paşa'nin vekayi'-i tarihiyesi / sahib-i eser, Abdülkadir Kemali.""></td>",./ottoman_brittles/dr573_3_s249_1913
-MATCH,3282919,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr573_5_z1_r12_1910,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3282919,,,dr573_5_z1_r12_1910,"Other: Râci, Hüseyin - Tarihçe-i vak'a-i Zağra / müellifi, Hüseyin Râci."" alt=""Other: Râci, Hüseyin - Tarihçe-i vak'a-i Zağra / müellifi, Hüseyin Râci.""></td>",./ottoman_brittles/dr573_5_z1_r12_1910
-MATCH,3278332,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr584_a94_1924,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3278332,,,dr584_a94_1924,"Other: Aykaç, Fazıl Ahmet, 1884-1967 - Kırpıntı / Fazıl Ahmet."" alt=""Other: Aykaç, Fazıl Ahmet, 1884-1967 - Kırpıntı / Fazıl Ahmet.""></td>",./ottoman_brittles/dr584a941924
-MATCH,3278569,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr589_m44_1921,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3278569,,,dr589_m44_1921,"Other: Mehmet Arif, 1882-1926 - Anadolu inkılabı : mücahedat-i milliye hatıratı, 1335-1339 / Mehmet Arif."" alt=""Other: Mehmet Arif, 1882-1926 - Anadolu inkılabı : mücahedat-i milliye hatıratı, 1335-1339 / Mehmet Arif.""></td>",./ottoman_brittles/dr589m441921
-MATCH,3274229,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr590_i44_1926,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3274229,,,dr590_i44_1926,"Other: İleri, Celâl Nuri, 1877-1939 - Türk inkilabi / Celâl Nuri."" alt=""Other: İleri, Celâl Nuri, 1877-1939 - Türk inkilabi / Celâl Nuri.""></td>",./ottoman_brittles/dr590_i44_1926
-MATCH,3279982,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr701_s5_a17_1920,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3279982,,,dr701_s5_a17_1920,"Other: Ahmet Hamdi - Arnavutluk hakkında mutalâa-i muhtasara : Arnavut hükûmeti nasıl olumludur / muharriri, Ahmed Hamdi."" alt=""Other: Ahmet Hamdi - Arnavutluk hakkında mutalâa-i muhtasara : Arnavut hükûmeti nasıl olumludur / muharriri, Ahmed Hamdi.""></td>",./ottoman_brittles/dr701s5a171920
-MATCH,3276480,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\ds26_t45_1914,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3276480,,,ds26_t45_1914,"Other: Tekinalp, Munis, 1883-1961 - Türan / Tekin."" alt=""Other: Tekinalp, Munis, 1883-1961 - Türan / Tekin.""></td>",./ottoman_brittles/ds26t451914
-MATCH,3279884,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\ds413_s645_1883,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3279884,,,ds413_s645_1883,"Other: Şirvanlı Ahmet Hamdi Efendi, 1831?-1890 - Hindistan ve Svat ve Afganistan Seyahatnamesi."" alt=""Other: Şirvanlı Ahmet Hamdi Efendi, 1831?-1890 - Hindistan ve Svat ve Afganistan Seyahatnamesi.""></td>",./ottoman_brittles/ds413s6451883
-MATCH,3283386,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\ds51_k18_e37_1915,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3283386,,,ds51_k18_e37_1915,"Other: Halil Edhem, 1861-1938 - Kayseriye şehri ; mebani-i İslâmiye ve kitabeleri : Selçukî tarihinden bir kıtʼa / Halil Edhem."" alt=""Other: Halil Edhem, 1861-1938 - Kayseriye şehri ; mebani-i İslâmiye ve kitabeleri : Selçukî tarihinden bir kıtʼa / Halil Edhem.""></td>",./ottoman_brittles/ds51k18e371915
-MATCH,3280019,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\ds51_s22_a45_1924,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3280019,,,ds51_s22_a45_1924,"Other: Ali Sâib, 1887-1939 - Kilikya faciaları ve Urfaʼnın kurtuluş mücadeleleri / Ali Sâib."" alt=""Other: Ali Sâib, 1887-1939 - Kilikya faciaları ve Urfaʼnın kurtuluş mücadeleleri / Ali Sâib.""></td>",./ottoman_brittles/ds51s22a451924
-MATCH,3280058,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\ds542_m83_1925,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3280058,,,ds542_m83_1925,"Other: Mübarek Galip - HIndistanda Türk hükümdarları : Timurilerin Hindistana dahil oldukları zamana kadar ve 603-962 senelerine Delhide icraî saltanat eden hükümdarlar / eser-i Mübarek Galip."" alt=""Other: Mübarek Galip - HIndistanda Türk hükümdarları : Timurilerin Hindistana dahil oldukları zamana kadar ve 603-962 senelerine Delhide icraî saltanat eden hükümdarlar / eser-i Mübarek Galip.""></td>",./ottoman_brittles/ds542m831925
-MATCH,3285455,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dt238_t8_m446_1914,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3285455,,,dt238_t8_m446_1914,"Other: Mehmet Nuri - Trablus Garb : vilayetin ahval-i coğrafiye, ziraiye, sınaiye ve tarihiyesi, vilayetin taksimat-ı idariyesi, vilayetin ahval-i tarihiyesi, vilayetin hinterland ve hudud mesaili / eser-i Mehmed Nuri ; Mahmud Naci."" alt=""Other: Mehmet Nuri - Trablus Garb : vilayetin ahval-i coğrafiye, ziraiye, sınaiye ve tarihiyesi, vilayetin taksimat-ı idariyesi, vilayetin ahval-i tarihiyesi, vilayetin hinterland ve hudud mesaili / eser-i Mehmed Nuri ; Mahmud Naci.""></td>",./ottoman_brittles/dt238t8m4461914
-MATCH,3277853,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\hm606_t9_s23_1927,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3277853,,,hm606_t9_s23_1927,"Other: Sadak, Necmeddin Sadık, 1890-1953 - İçtimaiyat / Maḳs Bonafos ve Necmeddīn Ṣadīḳ."" alt=""Other: Sadak, Necmeddin Sadık, 1890-1953 - İçtimaiyat / Maḳs Bonafos ve Necmeddīn Ṣadīḳ.""></td>",./ottoman_brittles/hm606t9s231927
-MATCH,3283358,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\jq1802_l87_1922,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3283358,,,jq1802_l87_1922,"Other: Lütfi Fikri, 1872-1934 - Hükümdarlık karşısında milliyet ve mesuliyet ve tefrik-i kuva mesaili / Lûtfi Fikri."" alt=""Other: Lütfi Fikri, 1872-1934 - Hükümdarlık karşısında milliyet ve mesuliyet ve tefrik-i kuva mesaili / Lûtfi Fikri.""></td>",./ottoman_brittles/jq1802_l87_1922
-MATCH,3276585,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\jq1805_s235_1913,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3276585,,,jq1805_s235_1913,"Other: Sadık, Mehmud - Takvimden yapraklar / [hazırlayan] Mehmud Sadık."" alt=""Other: Sadık, Mehmud - Takvimden yapraklar / [hazırlayan] Mehmud Sadık.""></td>",./ottoman_brittles/jq1805_s235_1913
-MATCH,3285431,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl123_e474_1912,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3285431,,,pl123_e474_1912,"Other: Emre, Ahmet Cevat, 1876-1961 - Lisan-ı Osmanı̂ : Sarf ve nahv dersleri / muharriri, Ahmet Cevat."" alt=""Other: Emre, Ahmet Cevat, 1876-1961 - Lisan-ı Osmanı̂ : Sarf ve nahv dersleri / muharriri, Ahmet Cevat.""></td>",./ottoman_brittles/pl123_e474_1912
-MATCH,3283055,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl232_m34_1908,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3283055,,,pl232_m34_1908,"Other: Abdullah Cevdet, 1869-1932 - Mahkeme-yi Kübra / [Abdullah Cevdet]"" alt=""Other: Abdullah Cevdet, 1869-1932 - Mahkeme-yi Kübra / [Abdullah Cevdet]""></td>",./ottoman_brittles/pl232_m34_1908
-MATCH,3283280,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl234_a457_1894,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3283280,,,pl234_a457_1894,"Other: Alişan, İsmail Hakkı, 1879-1944 - Muasir şairlerimiz / muharriri, İsmail Hakki."" alt=""Other: Alişan, İsmail Hakkı, 1879-1944 - Muasir şairlerimiz / muharriri, İsmail Hakki.""></td>",./ottoman_brittles/pl234a4571894
-MATCH,3283311,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl234_m83_s86_1891,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3283311,,,pl234_m83_s86_1891,"Other: Naci, Muallim, 1850-1893 - Sünbüle / Muallim Naci."" alt=""Other: Naci, Muallim, 1850-1893 - Sünbüle / Muallim Naci.""></td>",./ottoman_brittles/pl234_m83_s86_1891
-MATCH,3283304,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl248_b4155_j675_1910,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3283304,,,pl248_b4155_j675_1910,"Other: Bekir Fahri - Jönler / muharriri, Bekir Fahri."" alt=""Other: Bekir Fahri - Jönler / muharriri, Bekir Fahri.""></td>",./ottoman_brittles/pl248b4155j6751910
-MATCH,3281772,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl248_c453_i8_1800z,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3281772,,,pl248_c453_i8_1800z,"Other: Mehmet Celâl, 1867-1912 - İsyan / muharriri, Mehmet Celal."" alt=""Other: Mehmet Celâl, 1867-1912 - İsyan / muharriri, Mehmet Celal.""></td>",./ottoman_brittles/pl248_c453_i8_1800z
-MATCH,3280351,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl248_d478_1800z,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3280351,,,pl248_d478_1800z,"Other: Dertli, İbrahim, 1772-1845 - Divan-ı Dertli."" alt=""Other: Dertli, İbrahim, 1772-1845 - Divan-ı Dertli.""></td>",./ottoman_brittles/pl248_d478_1800z
-MATCH,3276513,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl248_e16_1838,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3276513,,,pl248_e16_1838,"Other: Rifat, -approximately 1830 - Münşeat-i Rıfat Efendi ; Divan-i Rifat Efendi ; İptida-i gazeliyat."" alt=""Other: Rifat, -approximately 1830 - Münşeat-i Rıfat Efendi ; Divan-i Rifat Efendi ; İptida-i gazeliyat.""></td>",./ottoman_brittles/pl248e161838
-MATCH,3277783,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl248_g63_s843_1922,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3277783,,,pl248_g63_s843_1922,"Other: Gövsa, İbrahim Alâettin, 1889-1949 - Sulh ve harp : manzum temsil / İbrahim Alâeddin."" alt=""Other: Gövsa, İbrahim Alâettin, 1889-1949 - Sulh ve harp : manzum temsil / İbrahim Alâeddin.""></td>",./ottoman_brittles/pl248_g63_s843_1922
-MATCH,3283399,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl248_g84_s54_1920,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3283399,,,pl248_g84_s54_1920,"Other: Gürpınar, Hüseyin Rahmi, 1864-1944 - Şık / muharriri, Hüseyin Rahmi."" alt=""Other: Gürpınar, Hüseyin Rahmi, 1864-1944 - Şık / muharriri, Hüseyin Rahmi.""></td>",./ottoman_brittles/pl248g84s541920
-MATCH,3284328,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl248_g936_h35_1919,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3284328,,,pl248_g936_h35_1919,"Other: Gürpınar, Hüseyin Rahmi, 1864-1944 - Hayattan sahifeler / muharriri, Hüseyin Rahmi."" alt=""Other: Gürpınar, Hüseyin Rahmi, 1864-1944 - Hayattan sahifeler / muharriri, Hüseyin Rahmi.""></td>",./ottoman_brittles/pl248g936h351919
-MATCH,3286313,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl248_h834_a17_1914,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3286313,,,pl248_h834_a17_1914,"Other: Hüseyin Kâmi - Divançe-yi Dehri / naşiri, Kurdizade Ahmet Ramiz."" alt=""Other: Hüseyin Kâmi - Divançe-yi Dehri / naşiri, Kurdizade Ahmet Ramiz.""></td>",./ottoman_brittles/pl248h834a171914
-MATCH,3278893,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl248_k34_i67_1917,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3278893,,,pl248_k34_i67_1917,"Other: Karay, Refik Halit, 1888-1965 - İstanbulʼun İç yüzü / Refik Halit."" alt=""Other: Karay, Refik Halit, 1888-1965 - İstanbulʼun İç yüzü / Refik Halit.""></td>",./ottoman_brittles/pl248_k34_i67_1917
-MATCH,3278890,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl248_k34_s25_1919,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3278890,,,pl248_k34_s25_1919,"Other: Karay, Refik Halit, 1888-1965 - Sakin aldanma, i̇nanma, kanma / Refik Halid."" alt=""Other: Karay, Refik Halit, 1888-1965 - Sakin aldanma, i̇nanma, kanma / Refik Halid.""></td>",./ottoman_brittles/pl248_k34_s25_1919
-MATCH,3279419,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl248_n227_c86_1894,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3279419,,,pl248_n227_c86_1894,"Other: Namık Kemal, 1840-1888 - Cümel-i müntahabei Kemal / toplayan, Ebüzziya Tevfik."" alt=""Other: Namık Kemal, 1840-1888 - Cümel-i müntahabei Kemal / toplayan, Ebüzziya Tevfik.""></td>",./ottoman_brittles/pl248n227c861894
-MATCH,3283087,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl248_s219_a17_1878,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3283087,,,pl248_s219_a17_1878,"Other: Ṣabri, Mehmet Şerif, d. 1645 - Divan-i Ṣabri Şakir : Nefʻi'iyle muasır bir şair olup Sultan Murad Rabi'in ahas nedmasından idi."" alt=""Other: Ṣabri, Mehmet Şerif, d. 1645 - Divan-i Ṣabri Şakir : Nefʻi'iyle muasır bir şair olup Sultan Murad Rabi'in ahas nedmasından idi.""></td>",./ottoman_brittles/pl248s219a171878
-MATCH,3279332,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl248_u78_k32_1898,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3279332,,,pl248_u78_k32_1898,"Other: Uşaklıgil, Halit Ziya, 1869-1945 - Bir kaç yaprak / Uşakızade Halit Ziya."" alt=""Other: Uşaklıgil, Halit Ziya, 1869-1945 - Bir kaç yaprak / Uşakızade Halit Ziya.""></td>",./ottoman_brittles/pl248u78k321898
-MATCH,3278839,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl248_y878_m45_1910,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3278839,,,pl248_y878_m45_1910,"Other: Yusuf Niyazi - Menfa köşelerinde / müharriri, Yusuf Niyazi."" alt=""Other: Yusuf Niyazi - Menfa köşelerinde / müharriri, Yusuf Niyazi.""></td>",./ottoman_brittles/pl248y878m451910
-MATCH,1902167,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl250_u84_1892,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1902167,,,pl250_u84_1892,"Other: Uşaklıgil, Halit Ziya, 1869-1945 - Mebhas ül-kıhıf / [yazan] Uşşakîzade Halid Ziya."" alt=""Other: Uşaklıgil, Halit Ziya, 1869-1945 - Mebhas ül-kıhıf / [yazan] Uşşakîzade Halid Ziya.""></td>",./ottoman_brittles/pl250u841892
+MATCH,3283085,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr506_a46_1909,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3283085,,,dr506_a46_1909,"Other: Ahmet Refik, 1880 or 1881-1937 - Devr-i Su虉leyman-谋 Kanun谋虃de Birinci Viyana Muhasaras谋 : 936 H, 1529 M / Ahmed Refik."" alt=""Other: Ahmet Refik, 1880 or 1881-1937 - Devr-i Su虉leyman-谋 Kanun谋虃de Birinci Viyana Muhasaras谋 : 936 H, 1529 M / Ahmed Refik.""></td>",./ottoman_brittles/dr506a461909
+MATCH,3283393,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr544_r44_1911,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3283393,,,dr544_r44_1911,"Other: Ahmet Refik, 1880 or 1881-1937 - Baltac谋 Mehmet Pas抬a ve Bu虉yu虉k Petro, 1711-1911"" alt=""Other: Ahmet Refik, 1880 or 1881-1937 - Baltac谋 Mehmet Pas抬a ve Bu虉yu虉k Petro, 1711-1911""></td>",./ottoman_brittles/dr544_r44_1911
+MATCH,3281865,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr553_a37_1869,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3281865,,,dr553_a37_1869,"Other: Ahmet Resmi虃 Efendi, Giridi虃, 1700-1783 - Devlet-i A虃liye canibinden Prusya kral谋 mes抬hur Bu虉yu虉k Frederik nezdine sefir tayi虃n k谋l谋nm谋s抬 olan Kethu虉da-yi Sadr-i A虃l-i Giridi虃 Ahmet Resmi虃 Efendinin ... Hula虃sat u虉l-itibar nam-i tarihc抬esidir."" alt=""Other: Ahmet Resmi虃 Efendi, Giridi虃, 1700-1783 - Devlet-i A虃liye canibinden Prusya kral谋 mes抬hur Bu虉yu虉k Frederik nezdine sefir tayi虃n k谋l谋nm谋s抬 olan Kethu虉da-yi Sadr-i A虃l-i Giridi虃 Ahmet Resmi虃 Efendinin ... Hula虃sat u虉l-itibar nam-i tarihc抬esidir.""></td>",./ottoman_brittles/dr553_a37_1869
+MATCH,6229137,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr557_a35_1924_v2,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6229137,,,dr557_a35_1924_v2,"Other: Ahmet Rasim, 1864?-1932 - I虈stibdattan ha虃kimiyet-i milliyeye / Ahmet Rasim."" alt=""Other: Ahmet Rasim, 1864?-1932 - I虈stibdattan ha虃kimiyet-i milliyeye / Ahmet Rasim.""></td>",./ottoman_brittles/dr557_a35_1924_v2
+MATCH,3280071,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr568_8_gh3_a3_1917,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3280071,,,dr568_8_gh3_a3_1917,"Other: Hayreddin Nedim - Bir elc抬inin tarihc抬e-i sefareti, 1207-1208 / Hayreddin Nedim."" alt=""Other: Hayreddin Nedim - Bir elc抬inin tarihc抬e-i sefareti, 1207-1208 / Hayreddin Nedim.""></td>",./ottoman_brittles/dr5688gh3a31917
+MATCH,3283309,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr568_8_m68_a3_1913,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3283309,,,dr568_8_m68_a3_1913,"Other: Mizanc谋 Murad, 1853-1914? - Meskenet ma驶zeret tes抬kil eder mi : Mu虉cahede-yi milliyeden : Mizan-谋 kadim ve Du虉yun-谋 umumiye komiserlig虇i devirleri / eser-i Ebu虉lfaruk."" alt=""Other: Mizanc谋 Murad, 1853-1914? - Meskenet ma驶zeret tes抬kil eder mi : Mu虉cahede-yi milliyeden : Mizan-谋 kadim ve Du虉yun-谋 umumiye komiserlig虇i devirleri / eser-i Ebu虉lfaruk.""></td>",./ottoman_brittles/dr5688m68a31913
+MATCH,3280138,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr568_8_s23_m4_1911,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3280138,,,dr568_8_s23_m4_1911,"Other: Mehmet Galip, 1865-1935 - Sadullah Pas抬a yahut mezardan nida / muellifi, Mehmet Galip Bey."" alt=""Other: Mehmet Galip, 1865-1935 - Sadullah Pas抬a yahut mezardan nida / muellifi, Mehmet Galip Bey.""></td>",./ottoman_brittles/dr5688s23m41911
+MATCH,3278289,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr568_8_s93_a3_1925,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3278289,,,dr568_8_s93_a3_1925,"Other: Su虉leyman Nazif, 1869-1927 - I虈ki dost : yeni vesaik-i ibtina ile yaz谋lm谋s抬d谋r / Su虉leyman Nazif."" alt=""Other: Su虉leyman Nazif, 1869-1927 - I虈ki dost : yeni vesaik-i ibtina ile yaz谋lm谋s抬d谋r / Su虉leyman Nazif.""></td>",./ottoman_brittles/dr5688s93a31925
+MATCH,3280430,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr568_b37_1909,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3280430,,,dr568_b37_1909,"Other: Basiretc抬i Ali, 1845?-1910? - I虈stanbul'da yar谋m as谋rl谋k vakayi-yi mu虉himme / muharriri, Ali."" alt=""Other: Basiretc抬i Ali, 1845?-1910? - I虈stanbul'da yar谋m as谋rl谋k vakayi-yi mu虉himme / muharriri, Ali.""></td>",./ottoman_brittles/dr568b371909
+MATCH,3277894,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr568_y87_1891,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3277894,,,dr568_y87_1891,"Other: Yusuf Ka虃mil Pas抬a, 1808-1876 - Eser-i Ka虃mil Pas抬a / mu虉ellifi merhum Ka虃mil Pas抬a."" alt=""Other: Yusuf Ka虃mil Pas抬a, 1808-1876 - Eser-i Ka虃mil Pas抬a / mu虉ellifi merhum Ka虃mil Pas抬a.""></td>",./ottoman_brittles/dr568y871891
+MATCH,3279320,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr569_s85_1908,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3279320,,,dr569_s85_1908,"Other: Su虉leyman Pas抬a, 1838-1892 - Hiss-i ink谋la虃p : yahut Sultan Abdu虉lazizin h坍al驶i ile Sultan Murad-谋 h坍a虅misin虄 cu虉lusu / muharriri, Su虉leyman Pas抬a."" alt=""Other: Su虉leyman Pas抬a, 1838-1892 - Hiss-i ink谋la虃p : yahut Sultan Abdu虉lazizin h坍al驶i ile Sultan Murad-谋 h坍a虅misin虄 cu虉lusu / muharriri, Su虉leyman Pas抬a.""></td>",./ottoman_brittles/dr569s851908
+MATCH,3279971,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr569_t48_1906,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3279971,,,dr569_t48_1906,"Other: Nureddin Tevfik - Sultan Aziz始in hal'i ve intihar谋 / Tevfik Nureddin."" alt=""Other: Nureddin Tevfik - Sultan Aziz始in hal'i ve intihar谋 / Tevfik Nureddin.""></td>",./ottoman_brittles/dr569t481906
+MATCH,3280089,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr571_a138_1918,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3280089,,,dr571_a138_1918,"Other: Abdurrahman S抬eref, 1853-1925 - Sultan Abdu虉lhamid-i San谋虃始ye dair / [yazanlar] Abdu虉rrahman S抬eref [ve] Ahmed Refik."" alt=""Other: Abdurrahman S抬eref, 1853-1925 - Sultan Abdu虉lhamid-i San谋虃始ye dair / [yazanlar] Abdu虉rrahman S抬eref [ve] Ahmed Refik.""></td>",./ottoman_brittles/dr571a1381918
+MATCH,3283405,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr572_y86_1909,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3283405,,,dr572_y86_1909,"Other: Yunus Nadi, 1880-1945 - I虈htila虃l ve inkila虃b-谋 Osmani虃, 31 Mart-14 Nisan 1325 [1909] : ha虃disat, ihtisasat, hakayik / Yunus Nadi."" alt=""Other: Yunus Nadi, 1880-1945 - I虈htila虃l ve inkila虃b-谋 Osmani虃, 31 Mart-14 Nisan 1325 [1909] : ha虃disat, ihtisasat, hakayik / Yunus Nadi.""></td>",./ottoman_brittles/dr572y861909
+MATCH,3283439,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr573_3_s249_1913,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3283439,,,dr573_3_s249_1913,"Other: Abdu虉lkadir Kemali, 1889-1949 - (S抬ehza虃de) Gazi Su虉leyman Pas抬a'nin vekayi'-i tarihiyesi / sahib-i eser, Abdu虉lkadir Kemali."" alt=""Other: Abdu虉lkadir Kemali, 1889-1949 - (S抬ehza虃de) Gazi Su虉leyman Pas抬a'nin vekayi'-i tarihiyesi / sahib-i eser, Abdu虉lkadir Kemali.""></td>",./ottoman_brittles/dr573_3_s249_1913
+MATCH,3282919,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr573_5_z1_r12_1910,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3282919,,,dr573_5_z1_r12_1910,"Other: Ra虃ci, Hu虉seyin - Tarihc抬e-i vak'a-i Zag虇ra / mu虉ellifi, Hu虉seyin Ra虃ci."" alt=""Other: Ra虃ci, Hu虉seyin - Tarihc抬e-i vak'a-i Zag虇ra / mu虉ellifi, Hu虉seyin Ra虃ci.""></td>",./ottoman_brittles/dr573_5_z1_r12_1910
+MATCH,3278332,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr584_a94_1924,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3278332,,,dr584_a94_1924,"Other: Aykac抬, Faz谋l Ahmet, 1884-1967 - K谋rp谋nt谋 / Faz谋l Ahmet."" alt=""Other: Aykac抬, Faz谋l Ahmet, 1884-1967 - K谋rp谋nt谋 / Faz谋l Ahmet.""></td>",./ottoman_brittles/dr584a941924
+MATCH,3278569,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr589_m44_1921,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3278569,,,dr589_m44_1921,"Other: Mehmet Arif, 1882-1926 - Anadolu ink谋lab谋 : mu虉cahedat-i milliye hat谋rat谋, 1335-1339 / Mehmet Arif."" alt=""Other: Mehmet Arif, 1882-1926 - Anadolu ink谋lab谋 : mu虉cahedat-i milliye hat谋rat谋, 1335-1339 / Mehmet Arif.""></td>",./ottoman_brittles/dr589m441921
+MATCH,3274229,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr590_i44_1926,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3274229,,,dr590_i44_1926,"Other: I虈leri, Cela虃l Nuri, 1877-1939 - Tu虉rk inkilabi / Cela虃l Nuri."" alt=""Other: I虈leri, Cela虃l Nuri, 1877-1939 - Tu虉rk inkilabi / Cela虃l Nuri.""></td>",./ottoman_brittles/dr590_i44_1926
+MATCH,3279982,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dr701_s5_a17_1920,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3279982,,,dr701_s5_a17_1920,"Other: Ahmet Hamdi - Arnavutluk hakk谋nda mutala虃a-i muhtasara : Arnavut hu虉ku虃meti nas谋l olumludur / muharriri, Ahmed Hamdi."" alt=""Other: Ahmet Hamdi - Arnavutluk hakk谋nda mutala虃a-i muhtasara : Arnavut hu虉ku虃meti nas谋l olumludur / muharriri, Ahmed Hamdi.""></td>",./ottoman_brittles/dr701s5a171920
+MATCH,3276480,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\ds26_t45_1914,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3276480,,,ds26_t45_1914,"Other: Tekinalp, Munis, 1883-1961 - Tu虉ran / Tekin."" alt=""Other: Tekinalp, Munis, 1883-1961 - Tu虉ran / Tekin.""></td>",./ottoman_brittles/ds26t451914
+MATCH,3279884,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\ds413_s645_1883,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3279884,,,ds413_s645_1883,"Other: S抬irvanl谋 Ahmet Hamdi Efendi, 1831?-1890 - Hindistan ve Svat ve Afganistan Seyahatnamesi."" alt=""Other: S抬irvanl谋 Ahmet Hamdi Efendi, 1831?-1890 - Hindistan ve Svat ve Afganistan Seyahatnamesi.""></td>",./ottoman_brittles/ds413s6451883
+MATCH,3283386,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\ds51_k18_e37_1915,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3283386,,,ds51_k18_e37_1915,"Other: Halil Edhem, 1861-1938 - Kayseriye s抬ehri ; mebani-i I虈sla虃miye ve kitabeleri : Selc抬uki虃 tarihinden bir k谋t始a / Halil Edhem."" alt=""Other: Halil Edhem, 1861-1938 - Kayseriye s抬ehri ; mebani-i I虈sla虃miye ve kitabeleri : Selc抬uki虃 tarihinden bir k谋t始a / Halil Edhem.""></td>",./ottoman_brittles/ds51k18e371915
+MATCH,3280019,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\ds51_s22_a45_1924,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3280019,,,ds51_s22_a45_1924,"Other: Ali Sa虃ib, 1887-1939 - Kilikya facialar谋 ve Urfa始n谋n kurtulus抬 mu虉cadeleleri / Ali Sa虃ib."" alt=""Other: Ali Sa虃ib, 1887-1939 - Kilikya facialar谋 ve Urfa始n谋n kurtulus抬 mu虉cadeleleri / Ali Sa虃ib.""></td>",./ottoman_brittles/ds51s22a451924
+MATCH,3280058,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\ds542_m83_1925,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3280058,,,ds542_m83_1925,"Other: Mu虉barek Galip - HIndistanda Tu虉rk hu虉ku虉mdarlar谋 : Timurilerin Hindistana dahil olduklar谋 zamana kadar ve 603-962 senelerine Delhide icrai虃 saltanat eden hu虉ku虉mdarlar / eser-i Mu虉barek Galip."" alt=""Other: Mu虉barek Galip - HIndistanda Tu虉rk hu虉ku虉mdarlar谋 : Timurilerin Hindistana dahil olduklar谋 zamana kadar ve 603-962 senelerine Delhide icrai虃 saltanat eden hu虉ku虉mdarlar / eser-i Mu虉barek Galip.""></td>",./ottoman_brittles/ds542m831925
+MATCH,3285455,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\dt238_t8_m446_1914,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3285455,,,dt238_t8_m446_1914,"Other: Mehmet Nuri - Trablus Garb : vilayetin ahval-i cog虇rafiye, ziraiye, s谋naiye ve tarihiyesi, vilayetin taksimat-谋 idariyesi, vilayetin ahval-i tarihiyesi, vilayetin hinterland ve hudud mesaili / eser-i Mehmed Nuri ; Mahmud Naci."" alt=""Other: Mehmet Nuri - Trablus Garb : vilayetin ahval-i cog虇rafiye, ziraiye, s谋naiye ve tarihiyesi, vilayetin taksimat-谋 idariyesi, vilayetin ahval-i tarihiyesi, vilayetin hinterland ve hudud mesaili / eser-i Mehmed Nuri ; Mahmud Naci.""></td>",./ottoman_brittles/dt238t8m4461914
+MATCH,3277853,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\hm606_t9_s23_1927,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3277853,,,hm606_t9_s23_1927,"Other: Sadak, Necmeddin Sad谋k, 1890-1953 - I虈c抬timaiyat / Mak蹋s Bonafos ve Necmeddi虅n S蹋adi虅k蹋."" alt=""Other: Sadak, Necmeddin Sad谋k, 1890-1953 - I虈c抬timaiyat / Mak蹋s Bonafos ve Necmeddi虅n S蹋adi虅k蹋.""></td>",./ottoman_brittles/hm606t9s231927
+MATCH,3283358,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\jq1802_l87_1922,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3283358,,,jq1802_l87_1922,"Other: Lu虉tfi Fikri, 1872-1934 - Hu虉ku虉mdarl谋k kars抬谋s谋nda milliyet ve mesuliyet ve tefrik-i kuva mesaili / Lu虃tfi Fikri."" alt=""Other: Lu虉tfi Fikri, 1872-1934 - Hu虉ku虉mdarl谋k kars抬谋s谋nda milliyet ve mesuliyet ve tefrik-i kuva mesaili / Lu虃tfi Fikri.""></td>",./ottoman_brittles/jq1802_l87_1922
+MATCH,3276585,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\jq1805_s235_1913,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3276585,,,jq1805_s235_1913,"Other: Sad谋k, Mehmud - Takvimden yapraklar / [haz谋rlayan] Mehmud Sad谋k."" alt=""Other: Sad谋k, Mehmud - Takvimden yapraklar / [haz谋rlayan] Mehmud Sad谋k.""></td>",./ottoman_brittles/jq1805_s235_1913
+MATCH,3285431,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl123_e474_1912,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3285431,,,pl123_e474_1912,"Other: Emre, Ahmet Cevat, 1876-1961 - Lisan-谋 Osman谋虃 : Sarf ve nahv dersleri / muharriri, Ahmet Cevat."" alt=""Other: Emre, Ahmet Cevat, 1876-1961 - Lisan-谋 Osman谋虃 : Sarf ve nahv dersleri / muharriri, Ahmet Cevat.""></td>",./ottoman_brittles/pl123_e474_1912
+MATCH,3283055,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl232_m34_1908,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3283055,,,pl232_m34_1908,"Other: Abdullah Cevdet, 1869-1932 - Mahkeme-yi Ku虉bra / [Abdullah Cevdet]"" alt=""Other: Abdullah Cevdet, 1869-1932 - Mahkeme-yi Ku虉bra / [Abdullah Cevdet]""></td>",./ottoman_brittles/pl232_m34_1908
+MATCH,3283280,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl234_a457_1894,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3283280,,,pl234_a457_1894,"Other: Alis抬an, I虈smail Hakk谋, 1879-1944 - Muasir s抬airlerimiz / muharriri, I虈smail Hakki."" alt=""Other: Alis抬an, I虈smail Hakk谋, 1879-1944 - Muasir s抬airlerimiz / muharriri, I虈smail Hakki.""></td>",./ottoman_brittles/pl234a4571894
+MATCH,3283311,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl234_m83_s86_1891,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3283311,,,pl234_m83_s86_1891,"Other: Naci, Muallim, 1850-1893 - Su虉nbu虉le / Muallim Naci."" alt=""Other: Naci, Muallim, 1850-1893 - Su虉nbu虉le / Muallim Naci.""></td>",./ottoman_brittles/pl234_m83_s86_1891
+MATCH,3283304,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl248_b4155_j675_1910,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3283304,,,pl248_b4155_j675_1910,"Other: Bekir Fahri - Jo虉nler / muharriri, Bekir Fahri."" alt=""Other: Bekir Fahri - Jo虉nler / muharriri, Bekir Fahri.""></td>",./ottoman_brittles/pl248b4155j6751910
+MATCH,3281772,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl248_c453_i8_1800z,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3281772,,,pl248_c453_i8_1800z,"Other: Mehmet Cela虃l, 1867-1912 - I虈syan / muharriri, Mehmet Celal."" alt=""Other: Mehmet Cela虃l, 1867-1912 - I虈syan / muharriri, Mehmet Celal.""></td>",./ottoman_brittles/pl248_c453_i8_1800z
+MATCH,3280351,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl248_d478_1800z,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3280351,,,pl248_d478_1800z,"Other: Dertli, I虈brahim, 1772-1845 - Divan-谋 Dertli."" alt=""Other: Dertli, I虈brahim, 1772-1845 - Divan-谋 Dertli.""></td>",./ottoman_brittles/pl248_d478_1800z
+MATCH,3276513,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl248_e16_1838,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3276513,,,pl248_e16_1838,"Other: Rifat, -approximately 1830 - Mu虉ns抬eat-i R谋fat Efendi ; Divan-i Rifat Efendi ; I虈ptida-i gazeliyat."" alt=""Other: Rifat, -approximately 1830 - Mu虉ns抬eat-i R谋fat Efendi ; Divan-i Rifat Efendi ; I虈ptida-i gazeliyat.""></td>",./ottoman_brittles/pl248e161838
+MATCH,3277783,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl248_g63_s843_1922,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3277783,,,pl248_g63_s843_1922,"Other: Go虉vsa, I虈brahim Ala虃ettin, 1889-1949 - Sulh ve harp : manzum temsil / I虈brahim Ala虃eddin."" alt=""Other: Go虉vsa, I虈brahim Ala虃ettin, 1889-1949 - Sulh ve harp : manzum temsil / I虈brahim Ala虃eddin.""></td>",./ottoman_brittles/pl248_g63_s843_1922
+MATCH,3283399,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl248_g84_s54_1920,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3283399,,,pl248_g84_s54_1920,"Other: Gu虉rp谋nar, Hu虉seyin Rahmi, 1864-1944 - S抬谋k / muharriri, Hu虉seyin Rahmi."" alt=""Other: Gu虉rp谋nar, Hu虉seyin Rahmi, 1864-1944 - S抬谋k / muharriri, Hu虉seyin Rahmi.""></td>",./ottoman_brittles/pl248g84s541920
+MATCH,3284328,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl248_g936_h35_1919,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3284328,,,pl248_g936_h35_1919,"Other: Gu虉rp谋nar, Hu虉seyin Rahmi, 1864-1944 - Hayattan sahifeler / muharriri, Hu虉seyin Rahmi."" alt=""Other: Gu虉rp谋nar, Hu虉seyin Rahmi, 1864-1944 - Hayattan sahifeler / muharriri, Hu虉seyin Rahmi.""></td>",./ottoman_brittles/pl248g936h351919
+MATCH,3286313,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl248_h834_a17_1914,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3286313,,,pl248_h834_a17_1914,"Other: Hu虉seyin Ka虃mi - Divanc抬e-yi Dehri / nas抬iri, Kurdizade Ahmet Ramiz."" alt=""Other: Hu虉seyin Ka虃mi - Divanc抬e-yi Dehri / nas抬iri, Kurdizade Ahmet Ramiz.""></td>",./ottoman_brittles/pl248h834a171914
+MATCH,3278893,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl248_k34_i67_1917,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3278893,,,pl248_k34_i67_1917,"Other: Karay, Refik Halit, 1888-1965 - I虈stanbul始un I虈c抬 yu虉zu虉 / Refik Halit."" alt=""Other: Karay, Refik Halit, 1888-1965 - I虈stanbul始un I虈c抬 yu虉zu虉 / Refik Halit.""></td>",./ottoman_brittles/pl248_k34_i67_1917
+MATCH,3278890,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl248_k34_s25_1919,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3278890,,,pl248_k34_s25_1919,"Other: Karay, Refik Halit, 1888-1965 - Sakin aldanma, i虈nanma, kanma / Refik Halid."" alt=""Other: Karay, Refik Halit, 1888-1965 - Sakin aldanma, i虈nanma, kanma / Refik Halid.""></td>",./ottoman_brittles/pl248_k34_s25_1919
+MATCH,3279419,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl248_n227_c86_1894,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3279419,,,pl248_n227_c86_1894,"Other: Nam谋k Kemal, 1840-1888 - Cu虉mel-i mu虉ntahabei Kemal / toplayan, Ebu虉zziya Tevfik."" alt=""Other: Nam谋k Kemal, 1840-1888 - Cu虉mel-i mu虉ntahabei Kemal / toplayan, Ebu虉zziya Tevfik.""></td>",./ottoman_brittles/pl248n227c861894
+MATCH,3283087,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl248_s219_a17_1878,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3283087,,,pl248_s219_a17_1878,"Other: S蹋abri, Mehmet S抬erif, d. 1645 - Divan-i S蹋abri S抬akir : Nef驶i'iyle muas谋r bir s抬air olup Sultan Murad Rabi'in ahas nedmas谋ndan idi."" alt=""Other: S蹋abri, Mehmet S抬erif, d. 1645 - Divan-i S蹋abri S抬akir : Nef驶i'iyle muas谋r bir s抬air olup Sultan Murad Rabi'in ahas nedmas谋ndan idi.""></td>",./ottoman_brittles/pl248s219a171878
+MATCH,3279332,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl248_u78_k32_1898,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3279332,,,pl248_u78_k32_1898,"Other: Us抬akl谋gil, Halit Ziya, 1869-1945 - Bir kac抬 yaprak / Us抬ak谋zade Halit Ziya."" alt=""Other: Us抬akl谋gil, Halit Ziya, 1869-1945 - Bir kac抬 yaprak / Us抬ak谋zade Halit Ziya.""></td>",./ottoman_brittles/pl248u78k321898
+MATCH,3278839,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl248_y878_m45_1910,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3278839,,,pl248_y878_m45_1910,"Other: Yusuf Niyazi - Menfa ko虉s抬elerinde / mu虉harriri, Yusuf Niyazi."" alt=""Other: Yusuf Niyazi - Menfa ko虉s抬elerinde / mu虉harriri, Yusuf Niyazi.""></td>",./ottoman_brittles/pl248y878m451910
+MATCH,1902167,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl250_u84_1892,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1902167,,,pl250_u84_1892,"Other: Us抬akl谋gil, Halit Ziya, 1869-1945 - Mebhas u虉l-k谋h谋f / [yazan] Us抬s抬aki虃zade Halid Ziya."" alt=""Other: Us抬akl谋gil, Halit Ziya, 1869-1945 - Mebhas u虉l-k谋h谋f / [yazan] Us抬s抬aki虃zade Halid Ziya.""></td>",./ottoman_brittles/pl250u841892
 MATCH,3380130,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl314_a45_z58_1911,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3380130,,,pl314_a45_z58_1911,"Other: Kucerlu, F - Mirza Fatali Akhundov : hazretlerinin tevelludunden yuz yil murur etmek munasebetiyle yazilmis risale-yi yadigarenedir / muellifi, F. Kucerlu."" alt=""Other: Kucerlu, F - Mirza Fatali Akhundov : hazretlerinin tevelludunden yuz yil murur etmek munasebetiyle yazilmis risale-yi yadigarenedir / muellifi, F. Kucerlu.""></td>",./ottoman_brittles/pl314a45z581911
-MATCH,3285384,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl53_1_a45_1898,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3285384,,,pl53_1_a45_1898,"Other: Alisher Navoiĭ, 1441-1501 - Muhakemet'ül lûgateyn / müellifi, Mir Ali Şir Nevai."" alt=""Other: Alisher Navoiĭ, 1441-1501 - Muhakemet'ül lûgateyn / müellifi, Mir Ali Şir Nevai.""></td>",./ottoman_brittles/pl53_1_a45_1898
-MATCH,3285421,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pq281_a45_1914,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3285421,,,pq281_a45_1914,"Other: Ali Kemal, 1867-1922 - Sorbon Darülfünûnunda edebiyat-ı hakikiye dersleri / Ali Kemal."" alt=""Other: Ali Kemal, 1867-1922 - Sorbon Darülfünûnunda edebiyat-ı hakikiye dersleri / Ali Kemal.""></td>",./ottoman_brittles/pq281a451914
-MATCH,3283088,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\tx750_5_t87_s48_1925,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3283088,,,tx750_5_t87_s48_1925,"Other: Şevket, Ahmet - Aşçı Mektebi : İstanbulun başlica birinci sınıf başilarının muavenetile / muallifi, A. Şevket."" alt=""Other: Şevket, Ahmet - Aşçı Mektebi : İstanbulun başlica birinci sınıf başilarının muavenetile / muallifi, A. Şevket.""></td>",./ottoman_brittles/tx750_5_t87_s48_1925
-MATCH,3280364,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\va667_t9_n49_1909,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3280364,,,va667_t9_n49_1909,"Other: Nevsâl-ı bahrı̂ / naşiri, Mehmet Ali."" alt=""Other: Nevsâl-ı bahrı̂ / naşiri, Mehmet Ali.""></td>",./ottoman_brittles/va667_t9_n49_1909
-MATCH,3341397,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\z846_n87_n87_1800z,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3341397,,,z846_n87_n87_1800z,"Other: Nuruosmaniye Kütüphanesinde mahfuz kütüb-ü mevcudenin defteri."" alt=""Other: Nuruosmaniye Kütüphanesinde mahfuz kütüb-ü mevcudenin defteri.""></td>",./ottoman_brittles/z846n87n871800z
-MATCH,3341400,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\z953_i8843x_1894,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3341400,,,z953_i8843x_1894,"Other: Hamidiye Kütüphanesinde mahfüz kütüb-i mevcudenin defteridir."" alt=""Other: Hamidiye Kütüphanesinde mahfüz kütüb-i mevcudenin defteridir.""></td>",./ottoman_brittles/z953_i8843x_1894
-MATCH,3341388,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\z953_k67_1880z,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3341388,,,z953_k67_1880z,"Other: Köprülüzade Mehmet Paşa Kütüphanesinde mahfuz bulunan kütüb-ü mevcudenin defteridir."" alt=""Other: Köprülüzade Mehmet Paşa Kütüphanesinde mahfuz bulunan kütüb-ü mevcudenin defteridir.""></td>",./ottoman_brittles/z953_k67_1880z
+MATCH,3285384,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pl53_1_a45_1898,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3285384,,,pl53_1_a45_1898,"Other: Alisher Navoii虇, 1441-1501 - Muhakemet'u虉l lu虃gateyn / mu虉ellifi, Mir Ali S抬ir Nevai."" alt=""Other: Alisher Navoii虇, 1441-1501 - Muhakemet'u虉l lu虃gateyn / mu虉ellifi, Mir Ali S抬ir Nevai.""></td>",./ottoman_brittles/pl53_1_a45_1898
+MATCH,3285421,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\pq281_a45_1914,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3285421,,,pq281_a45_1914,"Other: Ali Kemal, 1867-1922 - Sorbon Daru虉lfu虉nu虃nunda edebiyat-谋 hakikiye dersleri / Ali Kemal."" alt=""Other: Ali Kemal, 1867-1922 - Sorbon Daru虉lfu虉nu虃nunda edebiyat-谋 hakikiye dersleri / Ali Kemal.""></td>",./ottoman_brittles/pq281a451914
+MATCH,3283088,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\tx750_5_t87_s48_1925,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3283088,,,tx750_5_t87_s48_1925,"Other: S抬evket, Ahmet - As抬c抬谋 Mektebi : I虈stanbulun bas抬lica birinci s谋n谋f bas抬ilar谋n谋n muavenetile / muallifi, A. S抬evket."" alt=""Other: S抬evket, Ahmet - As抬c抬谋 Mektebi : I虈stanbulun bas抬lica birinci s谋n谋f bas抬ilar谋n谋n muavenetile / muallifi, A. S抬evket.""></td>",./ottoman_brittles/tx750_5_t87_s48_1925
+MATCH,3280364,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\va667_t9_n49_1909,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3280364,,,va667_t9_n49_1909,"Other: Nevsa虃l-谋 bahr谋虃 / nas抬iri, Mehmet Ali."" alt=""Other: Nevsa虃l-谋 bahr谋虃 / nas抬iri, Mehmet Ali.""></td>",./ottoman_brittles/va667_t9_n49_1909
+MATCH,3341397,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\z846_n87_n87_1800z,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3341397,,,z846_n87_n87_1800z,"Other: Nuruosmaniye Ku虉tu虉phanesinde mahfuz ku虉tu虉b-u虉 mevcudenin defteri."" alt=""Other: Nuruosmaniye Ku虉tu虉phanesinde mahfuz ku虉tu虉b-u虉 mevcudenin defteri.""></td>",./ottoman_brittles/z846n87n871800z
+MATCH,3341400,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\z953_i8843x_1894,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3341400,,,z953_i8843x_1894,"Other: Hamidiye Ku虉tu虉phanesinde mahfu虉z ku虉tu虉b-i mevcudenin defteridir."" alt=""Other: Hamidiye Ku虉tu虉phanesinde mahfu虉z ku虉tu虉b-i mevcudenin defteridir.""></td>",./ottoman_brittles/z953_i8843x_1894
+MATCH,3341388,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,sceti-completed\One_Off_Printed\ottoman_brittles\z953_k67_1880z,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3341388,,,z953_k67_1880z,"Other: Ko虉pru虉lu虉zade Mehmet Pas抬a Ku虉tu虉phanesinde mahfuz bulunan ku虉tu虉b-u虉 mevcudenin defteridir."" alt=""Other: Ko虉pru虉lu虉zade Mehmet Pas抬a Ku虉tu虉phanesinde mahfuz bulunan ku虉tu虉b-u虉 mevcudenin defteridir.""></td>",./ottoman_brittles/z953_k67_1880z
 NO MATCH,1889807,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,Broken,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1889807,,,Broken,,""
 NO MATCH,3282042,Ottoman,sceti-completed\One_Off_Printed\ottoman_brittles,Broken,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=3282042,,,Broken,,""
 NO MATCH,6967082,Playbills,sceti-completed\One_Off_Printed\FurnessPlaybills,Broken,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6967082,,,Broken,,""
@@ -1365,242 +1365,242 @@ MATCH,6979202,Playbills,sceti-completed\One_Off_Printed\FurnessPlaybills,sceti-c
 MATCH,6979203,Playbills,sceti-completed\One_Off_Printed\FurnessPlaybills,sceti-completed\One_Off_Printed\FurnessPlaybills\printcoll8_v28_n7,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6979203,,,printcoll8_v28_n7,,./FurnessPlaybills/printcoll8_v28/n7
 MATCH,6979204,Playbills,sceti-completed\One_Off_Printed\FurnessPlaybills,sceti-completed\One_Off_Printed\FurnessPlaybills\printcoll8_v28_n8,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6979204,,,printcoll8_v28_n8,,./FurnessPlaybills/printcoll8_v28/n8
 MATCH,6979205,Playbills,sceti-completed\One_Off_Printed\FurnessPlaybills,sceti-completed\One_Off_Printed\FurnessPlaybills\printcoll8_v28_n9,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=6979205,,,printcoll8_v28_n9,,./FurnessPlaybills/printcoll8_v28/n9
-NO FILE NAME,1111781,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1111781,,,,
-NO FILE NAME,1113043,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1113043,,,,
-NO FILE NAME,1114885,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1114885,,,,
-NO FILE NAME,1116276,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1116276,,,,
-NO FILE NAME,1117448,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1117448,,,,
-NO FILE NAME,1117663,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1117663,,,,
-NO FILE NAME,1118660,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1118660,,,,
-NO FILE NAME,1119006,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1119006,,,,
-NO FILE NAME,1123893,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1123893,,,,
-NO FILE NAME,1364659,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1364659,,,,
-NO FILE NAME,1364703,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1364703,,,,
-NO FILE NAME,1364748,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1364748,,,,
-NO FILE NAME,1364781,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1364781,,,,
-NO FILE NAME,1364922,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1364922,,,,
-NO FILE NAME,1364935,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1364935,,,,
-NO FILE NAME,1364966,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1364966,,,,
-NO FILE NAME,1364987,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1364987,,,,
-NO FILE NAME,1365004,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1365004,,,,
-NO FILE NAME,1365009,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1365009,,,,
-NO FILE NAME,1365034,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1365034,,,,
-NO FILE NAME,1365218,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1365218,,,,
-NO FILE NAME,1365344,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1365344,,,,
-NO FILE NAME,1374066,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1374066,,,,
-NO FILE NAME,1374078,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1374078,,,,
-NO FILE NAME,1374084,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1374084,,,,
-NO FILE NAME,1374095,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1374095,,,,
-NO FILE NAME,1374115,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1374115,,,,
-NO FILE NAME,1374161,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1374161,,,,
-NO FILE NAME,1374163,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1374163,,,,
-NO FILE NAME,1374164,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1374164,,,,
-NO FILE NAME,1374167,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1374167,,,,
-NO FILE NAME,1374257,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1374257,,,,
-NO FILE NAME,1374270,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1374270,,,,
-NO FILE NAME,1820525,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1820525,,,,
-NO FILE NAME,2017620,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2017620,,,,
-NO FILE NAME,2017760,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2017760,,,,
-NO FILE NAME,2167612,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2167612,,,,
-NO FILE NAME,2180160,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2180160,,,,
-NO FILE NAME,2181476,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2181476,,,,
-NO FILE NAME,2453305,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2453305,,,,
-NO FILE NAME,2585547,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2585547,,,,
-NO FILE NAME,2864905,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2864905,,,,
-NO FILE NAME,2864906,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2864906,,,,
-NO FILE NAME,2873289,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2873289,,,,
-NO FILE NAME,2873303,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2873303,,,,
-NO FILE NAME,2873310,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2873310,,,,
-NO FILE NAME,2873311,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2873311,,,,
-NO FILE NAME,2873312,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2873312,,,,
-NO FILE NAME,2873313,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2873313,,,,
-NO FILE NAME,2873314,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2873314,,,,
-NO FILE NAME,2873331,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2873331,,,,
-NO FILE NAME,2873335,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2873335,,,,
-NO FILE NAME,2873338,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2873338,,,,
-NO FILE NAME,2873344,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2873344,,,,
-NO FILE NAME,2873359,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2873359,,,,
-NO FILE NAME,2873941,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2873941,,,,
-NO FILE NAME,2874096,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874096,,,,
-NO FILE NAME,2874118,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874118,,,,
-NO FILE NAME,2874126,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874126,,,,
-NO FILE NAME,2874128,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874128,,,,
-NO FILE NAME,2874129,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874129,,,,
-NO FILE NAME,2874156,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874156,,,,
-NO FILE NAME,2874182,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874182,,,,
-NO FILE NAME,2874191,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874191,,,,
-NO FILE NAME,2874192,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874192,,,,
-NO FILE NAME,2874194,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874194,,,,
-NO FILE NAME,2874199,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874199,,,,
-NO FILE NAME,2874221,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874221,,,,
-NO FILE NAME,2874235,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874235,,,,
-NO FILE NAME,2874250,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874250,,,,
-NO FILE NAME,2874265,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874265,,,,
-NO FILE NAME,2874266,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874266,,,,
-NO FILE NAME,2874270,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874270,,,,
-NO FILE NAME,2874318,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874318,,,,
-NO FILE NAME,2874323,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874323,,,,
-NO FILE NAME,2874326,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874326,,,,
-NO FILE NAME,2879178,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2879178,,,,
-NO FILE NAME,2908181,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2908181,,,,
-NO FILE NAME,2912035,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2912035,,,,
-NO FILE NAME,2915699,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915699,,,,
-NO FILE NAME,2915719,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915719,,,,
-NO FILE NAME,2915748,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915748,,,,
-NO FILE NAME,2915751,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915751,,,,
-NO FILE NAME,2915752,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915752,,,,
-NO FILE NAME,2915754,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915754,,,,
-NO FILE NAME,2915755,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915755,,,,
-NO FILE NAME,2915756,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915756,,,,
-NO FILE NAME,2915757,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915757,,,,
-NO FILE NAME,2915807,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915807,,,,
-NO FILE NAME,2915811,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915811,,,,
-NO FILE NAME,2915814,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915814,,,,
-NO FILE NAME,2915815,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915815,,,,
-NO FILE NAME,2915826,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915826,,,,
-NO FILE NAME,2915881,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915881,,,,
-NO FILE NAME,2915886,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915886,,,,
-NO FILE NAME,2915913,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915913,,,,
-NO FILE NAME,2915933,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915933,,,,
-NO FILE NAME,2915937,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915937,,,,
-NO FILE NAME,2915951,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915951,,,,
-NO FILE NAME,2915992,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915992,,,,
-NO FILE NAME,2916649,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2916649,,,,
-NO FILE NAME,2916667,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2916667,,,,
-NO FILE NAME,2916676,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2916676,,,,
-NO FILE NAME,2916705,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2916705,,,,
-NO FILE NAME,2916715,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2916715,,,,
-NO FILE NAME,2916740,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2916740,,,,
-NO FILE NAME,2916742,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2916742,,,,
-NO FILE NAME,2916744,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2916744,,,,
-NO FILE NAME,2916755,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2916755,,,,
-NO FILE NAME,2916768,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2916768,,,,
-NO FILE NAME,2916799,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2916799,,,,
-NO FILE NAME,2916808,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2916808,,,,
-NO FILE NAME,2916874,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2916874,,,,
-NO FILE NAME,2916881,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2916881,,,,
-NO FILE NAME,2916883,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2916883,,,,
-NO FILE NAME,2916901,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2916901,,,,
-NO FILE NAME,2916905,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2916905,,,,
-NO FILE NAME,2917001,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917001,,,,
-NO FILE NAME,2917002,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917002,,,,
-NO FILE NAME,2917028,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917028,,,,
-NO FILE NAME,2917047,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917047,,,,
-NO FILE NAME,2917063,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917063,,,,
-NO FILE NAME,2917067,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917067,,,,
-NO FILE NAME,2917072,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917072,,,,
-NO FILE NAME,2917073,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917073,,,,
-NO FILE NAME,2917078,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917078,,,,
-NO FILE NAME,2917095,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917095,,,,
-NO FILE NAME,2917102,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917102,,,,
-NO FILE NAME,2917123,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917123,,,,
-NO FILE NAME,2917154,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917154,,,,
-NO FILE NAME,2917207,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917207,,,,
-NO FILE NAME,2917221,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917221,,,,
-NO FILE NAME,2917259,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917259,,,,
-NO FILE NAME,2917263,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917263,,,,
-NO FILE NAME,2917294,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917294,,,,
-NO FILE NAME,2919267,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2919267,,,,
-NO FILE NAME,2921960,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2921960,,,,
-NO FILE NAME,2922026,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2922026,,,,
-NO FILE NAME,2922041,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2922041,,,,
-NO FILE NAME,2923085,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2923085,,,,
-NO FILE NAME,2923121,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2923121,,,,
-NO FILE NAME,2974159,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2974159,,,,
-NO FILE NAME,4174307,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=4174307,,,,
-NO FILE NAME,5043521,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5043521,,,,
-NO FILE NAME,5068087,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5068087,,,,
-NO FILE NAME,5068088,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5068088,,,,
-NO FILE NAME,5068089,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5068089,,,,
-NO FILE NAME,5068091,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5068091,,,,
-NO FILE NAME,5068092,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5068092,,,,
-NO FILE NAME,5068093,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5068093,,,,
-NO FILE NAME,5068094,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5068094,,,,
-NO FILE NAME,5921193,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921193,,,,
-NO FILE NAME,5921201,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921201,,,,
-NO FILE NAME,5921208,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921208,,,,
-NO FILE NAME,5921211,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921211,,,,
-NO FILE NAME,5921213,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921213,,,,
-NO FILE NAME,5921217,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921217,,,,
-NO FILE NAME,5921222,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921222,,,,
-NO FILE NAME,5921225,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921225,,,,
-NO FILE NAME,5921230,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921230,,,,
-NO FILE NAME,5921235,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921235,,,,
-NO FILE NAME,5921268,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921268,,,,
-NO FILE NAME,5921271,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921271,,,,
-NO FILE NAME,5921280,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921280,,,,
-NO FILE NAME,5921285,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921285,,,,
-NO FILE NAME,5921598,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921598,,,,
-NO FILE NAME,5921600,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921600,,,,
-NO FILE NAME,5921608,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921608,,,,
-NO FILE NAME,5921610,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921610,,,,
-NO FILE NAME,5921612,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921612,,,,
-NO FILE NAME,5921615,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921615,,,,
-NO FILE NAME,5921618,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921618,,,,
-NO FILE NAME,5921622,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921622,,,,
-NO FILE NAME,5922935,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5922935,,,,
-NO FILE NAME,5923084,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5923084,,,,
-NO FILE NAME,5925354,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5925354,,,,
-NO FILE NAME,5925356,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5925356,,,,
-NO FILE NAME,5925362,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5925362,,,,
-NO FILE NAME,5925367,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5925367,,,,
-NO FILE NAME,5925377,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5925377,,,,
-NO FILE NAME,5925381,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5925381,,,,
-NO FILE NAME,5925384,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5925384,,,,
-NO FILE NAME,5925391,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5925391,,,,
-NO FILE NAME,5925402,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5925402,,,,
-NO FILE NAME,5925406,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5925406,,,,
-NO FILE NAME,5925425,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5925425,,,,
-NO FILE NAME,5925431,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5925431,,,,
-NO FILE NAME,5926238,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926238,,,,
-NO FILE NAME,5926242,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926242,,,,
-NO FILE NAME,5926249,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926249,,,,
-NO FILE NAME,5926253,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926253,,,,
-NO FILE NAME,5926256,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926256,,,,
-NO FILE NAME,5926257,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926257,,,,
-NO FILE NAME,5926258,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926258,,,,
-NO FILE NAME,5926261,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926261,,,,
-NO FILE NAME,5926266,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926266,,,,
-NO FILE NAME,5926268,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926268,,,,
-NO FILE NAME,5926270,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926270,,,,
-NO FILE NAME,5926286,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926286,,,,
-NO FILE NAME,5926288,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926288,,,,
-NO FILE NAME,5926292,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926292,,,,
-NO FILE NAME,5926295,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926295,,,,
-NO FILE NAME,5926298,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926298,,,,
-NO FILE NAME,5926299,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926299,,,,
-NO FILE NAME,5926303,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926303,,,,
-NO FILE NAME,5926305,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926305,,,,
-NO FILE NAME,5926306,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926306,,,,
-NO FILE NAME,5926309,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926309,,,,
-NO FILE NAME,5926320,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926320,,,,
-NO FILE NAME,5926647,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926647,,,,
-NO FILE NAME,5926686,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926686,,,,
-NO FILE NAME,5926688,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926688,,,,
-NO FILE NAME,5926689,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926689,,,,
-NO FILE NAME,5926690,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926690,,,,
-NO FILE NAME,5926701,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926701,,,,
-NO FILE NAME,5926705,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926705,,,,
-NO FILE NAME,5926708,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926708,,,,
-NO FILE NAME,5926713,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926713,,,,
-NO FILE NAME,5926718,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926718,,,,
-NO FILE NAME,5926720,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926720,,,,
-NO FILE NAME,5926721,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926721,,,,
-NO FILE NAME,5926724,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926724,,,,
-NO FILE NAME,5926730,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926730,,,,
-NO FILE NAME,5926732,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926732,,,,
-NO FILE NAME,5926734,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926734,,,,
-NO FILE NAME,5926735,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926735,,,,
-NO FILE NAME,5926736,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926736,,,,
-NO FILE NAME,5926737,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926737,,,,
-NO FILE NAME,5926740,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926740,,,,
-NO FILE NAME,5926741,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926741,,,,
-NO FILE NAME,5926743,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926743,,,,
-NO FILE NAME,5926745,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926745,,,,
-NO FILE NAME,5927948,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5927948,,,,
-NO FILE NAME,5927949,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5927949,,,,
-NO FILE NAME,5927953,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5927953,,,,
-NO FILE NAME,5927958,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5927958,,,,
-NO FILE NAME,5927962,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5927962,,,,
-NO FILE NAME,5927967,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5927967,,,,
-NO FILE NAME,5927970,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5927970,,,,
+NO FILE NAME,1111781,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1111781,,,,,
+NO FILE NAME,1113043,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1113043,,,,,
+NO FILE NAME,1114885,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1114885,,,,,
+NO FILE NAME,1116276,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1116276,,,,,
+NO FILE NAME,1117448,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1117448,,,,,
+NO FILE NAME,1117663,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1117663,,,,,
+NO FILE NAME,1118660,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1118660,,,,,
+NO FILE NAME,1119006,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1119006,,,,,
+NO FILE NAME,1123893,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1123893,,,,,
+NO FILE NAME,1364659,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1364659,,,,,
+NO FILE NAME,1364703,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1364703,,,,,
+NO FILE NAME,1364748,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1364748,,,,,
+NO FILE NAME,1364781,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1364781,,,,,
+NO FILE NAME,1364922,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1364922,,,,,
+NO FILE NAME,1364935,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1364935,,,,,
+NO FILE NAME,1364966,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1364966,,,,,
+NO FILE NAME,1364987,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1364987,,,,,
+NO FILE NAME,1365004,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1365004,,,,,
+NO FILE NAME,1365009,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1365009,,,,,
+NO FILE NAME,1365034,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1365034,,,,,
+NO FILE NAME,1365218,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1365218,,,,,
+NO FILE NAME,1365344,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1365344,,,,,
+NO FILE NAME,1374066,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1374066,,,,,
+NO FILE NAME,1374078,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1374078,,,,,
+NO FILE NAME,1374084,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1374084,,,,,
+NO FILE NAME,1374095,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1374095,,,,,
+NO FILE NAME,1374115,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1374115,,,,,
+NO FILE NAME,1374161,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1374161,,,,,
+NO FILE NAME,1374163,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1374163,,,,,
+NO FILE NAME,1374164,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1374164,,,,,
+NO FILE NAME,1374167,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1374167,,,,,
+NO FILE NAME,1374257,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1374257,,,,,
+NO FILE NAME,1374270,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1374270,,,,,
+NO FILE NAME,1820525,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=1820525,,,,,
+NO FILE NAME,2017620,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2017620,,,,,
+NO FILE NAME,2017760,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2017760,,,,,
+NO FILE NAME,2167612,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2167612,,,,,
+NO FILE NAME,2180160,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2180160,,,,,
+NO FILE NAME,2181476,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2181476,,,,,
+NO FILE NAME,2453305,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2453305,,,,,
+NO FILE NAME,2585547,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2585547,,,,,
+NO FILE NAME,2864905,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2864905,,,,,
+NO FILE NAME,2864906,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2864906,,,,,
+NO FILE NAME,2873289,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2873289,,,,,
+NO FILE NAME,2873303,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2873303,,,,,
+NO FILE NAME,2873310,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2873310,,,,,
+NO FILE NAME,2873311,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2873311,,,,,
+NO FILE NAME,2873312,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2873312,,,,,
+NO FILE NAME,2873313,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2873313,,,,,
+NO FILE NAME,2873314,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2873314,,,,,
+NO FILE NAME,2873331,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2873331,,,,,
+NO FILE NAME,2873335,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2873335,,,,,
+NO FILE NAME,2873338,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2873338,,,,,
+NO FILE NAME,2873344,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2873344,,,,,
+NO FILE NAME,2873359,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2873359,,,,,
+NO FILE NAME,2873941,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2873941,,,,,
+NO FILE NAME,2874096,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874096,,,,,
+NO FILE NAME,2874118,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874118,,,,,
+NO FILE NAME,2874126,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874126,,,,,
+NO FILE NAME,2874128,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874128,,,,,
+NO FILE NAME,2874129,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874129,,,,,
+NO FILE NAME,2874156,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874156,,,,,
+NO FILE NAME,2874182,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874182,,,,,
+NO FILE NAME,2874191,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874191,,,,,
+NO FILE NAME,2874192,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874192,,,,,
+NO FILE NAME,2874194,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874194,,,,,
+NO FILE NAME,2874199,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874199,,,,,
+NO FILE NAME,2874221,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874221,,,,,
+NO FILE NAME,2874235,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874235,,,,,
+NO FILE NAME,2874250,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874250,,,,,
+NO FILE NAME,2874265,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874265,,,,,
+NO FILE NAME,2874266,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874266,,,,,
+NO FILE NAME,2874270,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874270,,,,,
+NO FILE NAME,2874318,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874318,,,,,
+NO FILE NAME,2874323,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874323,,,,,
+NO FILE NAME,2874326,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2874326,,,,,
+NO FILE NAME,2879178,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2879178,,,,,
+NO FILE NAME,2908181,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2908181,,,,,
+NO FILE NAME,2912035,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2912035,,,,,
+NO FILE NAME,2915699,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915699,,,,,
+NO FILE NAME,2915719,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915719,,,,,
+NO FILE NAME,2915748,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915748,,,,,
+NO FILE NAME,2915751,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915751,,,,,
+NO FILE NAME,2915752,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915752,,,,,
+NO FILE NAME,2915754,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915754,,,,,
+NO FILE NAME,2915755,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915755,,,,,
+NO FILE NAME,2915756,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915756,,,,,
+NO FILE NAME,2915757,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915757,,,,,
+NO FILE NAME,2915807,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915807,,,,,
+NO FILE NAME,2915811,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915811,,,,,
+NO FILE NAME,2915814,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915814,,,,,
+NO FILE NAME,2915815,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915815,,,,,
+NO FILE NAME,2915826,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915826,,,,,
+NO FILE NAME,2915881,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915881,,,,,
+NO FILE NAME,2915886,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915886,,,,,
+NO FILE NAME,2915913,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915913,,,,,
+NO FILE NAME,2915933,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915933,,,,,
+NO FILE NAME,2915937,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915937,,,,,
+NO FILE NAME,2915951,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915951,,,,,
+NO FILE NAME,2915992,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2915992,,,,,
+NO FILE NAME,2916649,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2916649,,,,,
+NO FILE NAME,2916667,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2916667,,,,,
+NO FILE NAME,2916676,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2916676,,,,,
+NO FILE NAME,2916705,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2916705,,,,,
+NO FILE NAME,2916715,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2916715,,,,,
+NO FILE NAME,2916740,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2916740,,,,,
+NO FILE NAME,2916742,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2916742,,,,,
+NO FILE NAME,2916744,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2916744,,,,,
+NO FILE NAME,2916755,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2916755,,,,,
+NO FILE NAME,2916768,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2916768,,,,,
+NO FILE NAME,2916799,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2916799,,,,,
+NO FILE NAME,2916808,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2916808,,,,,
+NO FILE NAME,2916874,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2916874,,,,,
+NO FILE NAME,2916881,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2916881,,,,,
+NO FILE NAME,2916883,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2916883,,,,,
+NO FILE NAME,2916901,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2916901,,,,,
+NO FILE NAME,2916905,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2916905,,,,,
+NO FILE NAME,2917001,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917001,,,,,
+NO FILE NAME,2917002,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917002,,,,,
+NO FILE NAME,2917028,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917028,,,,,
+NO FILE NAME,2917047,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917047,,,,,
+NO FILE NAME,2917063,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917063,,,,,
+NO FILE NAME,2917067,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917067,,,,,
+NO FILE NAME,2917072,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917072,,,,,
+NO FILE NAME,2917073,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917073,,,,,
+NO FILE NAME,2917078,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917078,,,,,
+NO FILE NAME,2917095,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917095,,,,,
+NO FILE NAME,2917102,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917102,,,,,
+NO FILE NAME,2917123,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917123,,,,,
+NO FILE NAME,2917154,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917154,,,,,
+NO FILE NAME,2917207,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917207,,,,,
+NO FILE NAME,2917221,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917221,,,,,
+NO FILE NAME,2917259,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917259,,,,,
+NO FILE NAME,2917263,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917263,,,,,
+NO FILE NAME,2917294,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2917294,,,,,
+NO FILE NAME,2919267,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2919267,,,,,
+NO FILE NAME,2921960,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2921960,,,,,
+NO FILE NAME,2922026,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2922026,,,,,
+NO FILE NAME,2922041,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2922041,,,,,
+NO FILE NAME,2923085,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2923085,,,,,
+NO FILE NAME,2923121,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2923121,,,,,
+NO FILE NAME,2974159,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=2974159,,,,,
+NO FILE NAME,4174307,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=4174307,,,,,
+NO FILE NAME,5043521,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5043521,,,,,
+NO FILE NAME,5068087,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5068087,,,,,
+NO FILE NAME,5068088,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5068088,,,,,
+NO FILE NAME,5068089,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5068089,,,,,
+NO FILE NAME,5068091,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5068091,,,,,
+NO FILE NAME,5068092,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5068092,,,,,
+NO FILE NAME,5068093,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5068093,,,,,
+NO FILE NAME,5068094,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5068094,,,,,
+NO FILE NAME,5921193,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921193,,,,,
+NO FILE NAME,5921201,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921201,,,,,
+NO FILE NAME,5921208,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921208,,,,,
+NO FILE NAME,5921211,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921211,,,,,
+NO FILE NAME,5921213,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921213,,,,,
+NO FILE NAME,5921217,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921217,,,,,
+NO FILE NAME,5921222,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921222,,,,,
+NO FILE NAME,5921225,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921225,,,,,
+NO FILE NAME,5921230,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921230,,,,,
+NO FILE NAME,5921235,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921235,,,,,
+NO FILE NAME,5921268,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921268,,,,,
+NO FILE NAME,5921271,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921271,,,,,
+NO FILE NAME,5921280,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921280,,,,,
+NO FILE NAME,5921285,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921285,,,,,
+NO FILE NAME,5921598,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921598,,,,,
+NO FILE NAME,5921600,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921600,,,,,
+NO FILE NAME,5921608,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921608,,,,,
+NO FILE NAME,5921610,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921610,,,,,
+NO FILE NAME,5921612,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921612,,,,,
+NO FILE NAME,5921615,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921615,,,,,
+NO FILE NAME,5921618,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921618,,,,,
+NO FILE NAME,5921622,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5921622,,,,,
+NO FILE NAME,5922935,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5922935,,,,,
+NO FILE NAME,5923084,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5923084,,,,,
+NO FILE NAME,5925354,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5925354,,,,,
+NO FILE NAME,5925356,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5925356,,,,,
+NO FILE NAME,5925362,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5925362,,,,,
+NO FILE NAME,5925367,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5925367,,,,,
+NO FILE NAME,5925377,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5925377,,,,,
+NO FILE NAME,5925381,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5925381,,,,,
+NO FILE NAME,5925384,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5925384,,,,,
+NO FILE NAME,5925391,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5925391,,,,,
+NO FILE NAME,5925402,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5925402,,,,,
+NO FILE NAME,5925406,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5925406,,,,,
+NO FILE NAME,5925425,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5925425,,,,,
+NO FILE NAME,5925431,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5925431,,,,,
+NO FILE NAME,5926238,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926238,,,,,
+NO FILE NAME,5926242,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926242,,,,,
+NO FILE NAME,5926249,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926249,,,,,
+NO FILE NAME,5926253,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926253,,,,,
+NO FILE NAME,5926256,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926256,,,,,
+NO FILE NAME,5926257,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926257,,,,,
+NO FILE NAME,5926258,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926258,,,,,
+NO FILE NAME,5926261,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926261,,,,,
+NO FILE NAME,5926266,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926266,,,,,
+NO FILE NAME,5926268,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926268,,,,,
+NO FILE NAME,5926270,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926270,,,,,
+NO FILE NAME,5926286,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926286,,,,,
+NO FILE NAME,5926288,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926288,,,,,
+NO FILE NAME,5926292,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926292,,,,,
+NO FILE NAME,5926295,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926295,,,,,
+NO FILE NAME,5926298,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926298,,,,,
+NO FILE NAME,5926299,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926299,,,,,
+NO FILE NAME,5926303,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926303,,,,,
+NO FILE NAME,5926305,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926305,,,,,
+NO FILE NAME,5926306,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926306,,,,,
+NO FILE NAME,5926309,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926309,,,,,
+NO FILE NAME,5926320,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926320,,,,,
+NO FILE NAME,5926647,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926647,,,,,
+NO FILE NAME,5926686,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926686,,,,,
+NO FILE NAME,5926688,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926688,,,,,
+NO FILE NAME,5926689,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926689,,,,,
+NO FILE NAME,5926690,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926690,,,,,
+NO FILE NAME,5926701,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926701,,,,,
+NO FILE NAME,5926705,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926705,,,,,
+NO FILE NAME,5926708,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926708,,,,,
+NO FILE NAME,5926713,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926713,,,,,
+NO FILE NAME,5926718,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926718,,,,,
+NO FILE NAME,5926720,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926720,,,,,
+NO FILE NAME,5926721,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926721,,,,,
+NO FILE NAME,5926724,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926724,,,,,
+NO FILE NAME,5926730,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926730,,,,,
+NO FILE NAME,5926732,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926732,,,,,
+NO FILE NAME,5926734,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926734,,,,,
+NO FILE NAME,5926735,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926735,,,,,
+NO FILE NAME,5926736,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926736,,,,,
+NO FILE NAME,5926737,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926737,,,,,
+NO FILE NAME,5926740,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926740,,,,,
+NO FILE NAME,5926741,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926741,,,,,
+NO FILE NAME,5926743,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926743,,,,,
+NO FILE NAME,5926745,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5926745,,,,,
+NO FILE NAME,5927948,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5927948,,,,,
+NO FILE NAME,5927949,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5927949,,,,,
+NO FILE NAME,5927953,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5927953,,,,,
+NO FILE NAME,5927958,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5927958,,,,,
+NO FILE NAME,5927962,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5927962,,,,,
+NO FILE NAME,5927967,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5927967,,,,,
+NO FILE NAME,5927970,WWI Pamphlets,,,,http://dla.library.upenn.edu/dla/print/pageturn.html?q=5927970,,,,,
