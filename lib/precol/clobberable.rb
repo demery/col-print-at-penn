@@ -13,7 +13,12 @@ module Precol
         !!@clobber
       end
 
-      def writable? outfile
+      ##
+      # Test if file can be written based on file non-existance or `clobber?`;
+      # returns true if file does not exist or can be overwritten. Prints
+      # appropriate message if file exists.
+      #
+      def write_prep outfile
         return true unless File.exists? outfile
 
         # OK, file exists. See if we can clobber it

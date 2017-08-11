@@ -32,7 +32,8 @@ module Precol
     end
 
     def write
-      writable? outfile or return false
+      # return false unless we can proceed
+      write_prep outfile or return false
 
       workbook = RubyXL::Workbook.new
       worksheet = workbook['Sheet1']

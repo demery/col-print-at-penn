@@ -35,7 +35,8 @@ module Precol
     #
     # `content` -- what to write to the file [default='']
     def write content=''
-      writable? outfile or return false
+      # return false unless we can proceed
+      write_prep outfile or return false
 
       File.open(outfile, "w") { |f| f.puts content }
       message { sprintf "Wrote '%s'", outfile }
