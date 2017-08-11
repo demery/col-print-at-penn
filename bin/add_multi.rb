@@ -97,6 +97,6 @@ CSV.foreach tmpfile, headers: true do |row|
   init_opts = { quiet: options[:quiet], clobber: options[:clobber] }
   dir = Precol::Directory.new dest_dir, bibid, init_opts
   dir.prep and next
-  STDERR.puts "WARNING: directory not prepped #{dest_dir}" unless options[:no_warn]
+  STDERR.puts "WARNING: Directory not prepped #{dest_dir}" unless options[:no_warn]
 
 end
