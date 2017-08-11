@@ -1,22 +1,17 @@
 module Precol
-  module Messsage
+  module Clobberable
     module ClassMethods
 
     end
 
     module InstanceMethods
-
-      def quiet?
-        !!@quiet
-      end
-
-      def message &block
-        return if quiet?
-        puts yield
+      def clobber?
+        !!@clobber
       end
     end
 
     def self.included(receiver)
+      attr_accessor :clobber
       receiver.extend         ClassMethods
       receiver.send :include, InstanceMethods
     end

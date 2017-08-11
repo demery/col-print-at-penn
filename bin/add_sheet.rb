@@ -31,11 +31,11 @@ options = {}
 parser = OptionParser.new do |opts|
   opts.banner = "Usage: #{File.basename __FILE__} [options] DEST_DIR OLD_BIBID"
 
-  opts.on "-v", "--[no-]verbose", "Run verbosely" do |v|
-    options[:verbose] = v
+  opts.on "-q", "--quiet", "Print no messages" do |q|
+    options[:quiet] = q
   end
 
-  opts.on "-x", "--[no]-clobber", "Overwrite existing files [default=false]" do |x|
+  opts.on "-x", "--[no-]clobber", "Overwrite existing files [default=false]" do |x|
     options[:clobber] = x
   end
 
@@ -64,5 +64,6 @@ exit_with_error parser, "Please provide a valid directory" unless File.directory
 exit_with_error parser, "Please provide a valid BibID" unless Precol::Util.valid_bibid? old_bibid
 exit_with_error parser, "Please provide an OLD-style BibID" if Precol::Util.new_bibid? old_bibid
 
-dir = Precol::Directory.new dest_dir, old_bibid, verbose: options[:verbose], clobber: options[:clobber]
-dir.prep
+dir = Precol::Directory.new dest_dir, old_bibid, quiet: options[:quiet], clobber: options[:clobber]
+# puts dir.inspect
+dir.prep or exit 1

@@ -40,12 +40,20 @@ options = {}
 parser = OptionParser.new do |opts|
   opts.banner = "Usage: #{File.basename __FILE__} [options] BIBID_DIR_CSV"
 
-  opts.on "-v", "--[no-]verbose", "Run verbosely" do |v|
-    options[:verbose] = v
+  opts.on "-q", "--[no-]quiet", "Be silent" do |q|
+    options[:quiet] = q
+  end
+
+  opts.on "-x", "--[no-]clobber", "Overwrite existing files [default=false]" do |x|
+    options[:clobber] = x
   end
 
   opts.on "-p", "--prefix PATH", "Prefix path for directories [default=.]" do |prefix|
     options[:prefix] = prefix
+  end
+
+  opts.on "-w", "--no-warn", "Don't print warnings" do |w|
+    options[:no_warn] = true
   end
 
   opts.on("-h", "--help", "Prints this help") do
@@ -86,7 +94,9 @@ CSV.foreach tmpfile, headers: true do |row|
     next
   end
 
-  dir = Precol::Directory.new dest_dir, bibid, options[:verbose]
-  dir.prep
+  init_opts = { quiet: options[:quiet], clobber: options[:clobber] }
+  dir = Precol::Directory.new dest_dir, bibid, init_opts
+  dir.prep and next
+  STDERR.puts "WARNING: directory not prepped #{dest_dir}" unless options[:no_warn]
 
 end

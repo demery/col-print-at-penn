@@ -1,6 +1,7 @@
 require 'rubyXL'
 require 'precol/util'
 require 'precol/message'
+require 'precol/clobberable'
 
 module Precol
   ##
@@ -8,6 +9,7 @@ module Precol
   #
   class MMMetadataXLSX
     include Precol::Messsage
+    include Precol::Clobberable
 
     attr_accessor :dest_dir, :bibid, :xlsx_name
 
@@ -22,7 +24,7 @@ module Precol
       @bibid = bibid
       @xlsx_name = options[:xlsx_name] || 'MM_Metadata.xlsx'
       @clobber = options[:clobber] || false
-      @verbose = options[:verbose].nil? ? true : options[:verbose]
+      @quiet = options[:quiet].nil? ? true : options[:quiet]
     end
 
     def outfile
@@ -31,11 +33,11 @@ module Precol
 
     def write
       if File.exists? outfile
-        if @clobber
+        if clobber?
+          message { sprintf "Overwriting existing file '%s'", outfile }
+        else
           message { sprintf "Not overwriting existing file '%s'", outfile }
           return
-        else
-          message { sprintf "Overwriting existing file '%s'", outfile }
         end
       end
       workbook = RubyXL::Workbook.new
@@ -44,6 +46,7 @@ module Precol
       worksheet.add_cell 1, 0, Util.new_bibid(bibid)
       workbook.write outfile
       message { sprintf "Wrote '%s'", outfile }
+      true
     end
   end
 end

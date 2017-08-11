@@ -1,4 +1,5 @@
 require 'precol/message'
+require 'precol/clobberable'
 
 module Precol
   ##
@@ -6,6 +7,8 @@ module Precol
   # a text file of any name in any directory.
   class MMTextFile
     include Precol::Messsage
+    include Precol::Clobberable
+
     ##
     # `file_name` -- base name of the file to write
     #
@@ -15,12 +18,12 @@ module Precol
     #
     # `:clobber` -- whether to overwrite an existing file [default=false]
     #
-    # `:verbose` -- be chatty [default=true]
+    # `:quiet` -- be silent
     def initialize file_name, dest_dir, options={}
       @file_name = file_name
       @dest_dir = dest_dir
       @clobber = options[:clobber] || false
-      @verbose = options[:verbose].nil? ? true : options[:verbose]
+      @quiet = options[:quiet].nil? ? true : options[:quiet]
     end
 
     def outfile
@@ -33,15 +36,16 @@ module Precol
     # `content` -- what to write to the file [default='']
     def write content=''
       if File.exists? outfile
-        if @clobber
+        if clobber?
+          message { sprintf "Overwriting existing file '%s'", outfile }
+        else
           message { sprintf "Not overwriting existing file '%s'", outfile }
           return
-        else
-          message { sprintf "Overwriting existing file '%s'", outfile }
         end
       end
       File.open(outfile, "w") { |f| f.puts content }
       message { sprintf "Wrote '%s'", outfile }
+      true
     end
   end
 end
