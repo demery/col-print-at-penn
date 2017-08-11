@@ -13,33 +13,27 @@ module Precol
 
     attr_accessor :dest_dir, :bibid, :xlsx_name
 
+    XLSX_NAME = 'MM_Metadata.xlsx'
+
     ##
     # `dest_dir` -- where to put the file
     #
     # `bibid` -- the BibID to use
     #
-    # `xlsx_name` -- base name of output file [default=MM_Metadata.xlsx]
     def initialize dest_dir, bibid, options={}
       @dest_dir  = dest_dir
-      @bibid = bibid
-      @xlsx_name = options[:xlsx_name] || 'MM_Metadata.xlsx'
-      @clobber = options[:clobber] || false
-      @quiet = options[:quiet].nil? ? true : options[:quiet]
+      @bibid     = bibid
+      @clobber   = options[:clobber]
+      @quiet     = options[:quiet]
     end
 
     def outfile
-      File.join dest_dir, xlsx_name
+      File.join dest_dir, XLSX_NAME
     end
 
     def write
-      if File.exists? outfile
-        if clobber?
-          message { sprintf "Overwriting existing file '%s'", outfile }
-        else
-          message { sprintf "Not overwriting existing file '%s'", outfile }
-          return
-        end
-      end
+      writable? outfile or return false
+
       workbook = RubyXL::Workbook.new
       worksheet = workbook['Sheet1']
       worksheet.add_cell 0, 0, "BibID"

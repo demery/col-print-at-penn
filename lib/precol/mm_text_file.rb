@@ -21,9 +21,9 @@ module Precol
     # `:quiet` -- be silent
     def initialize file_name, dest_dir, options={}
       @file_name = file_name
-      @dest_dir = dest_dir
-      @clobber = options[:clobber] || false
-      @quiet = options[:quiet].nil? ? true : options[:quiet]
+      @dest_dir  = dest_dir
+      @clobber   = options[:clobber]
+      @quiet     = options[:quiet]
     end
 
     def outfile
@@ -35,14 +35,8 @@ module Precol
     #
     # `content` -- what to write to the file [default='']
     def write content=''
-      if File.exists? outfile
-        if clobber?
-          message { sprintf "Overwriting existing file '%s'", outfile }
-        else
-          message { sprintf "Not overwriting existing file '%s'", outfile }
-          return
-        end
-      end
+      writable? outfile or return false
+
       File.open(outfile, "w") { |f| f.puts content }
       message { sprintf "Wrote '%s'", outfile }
       true
