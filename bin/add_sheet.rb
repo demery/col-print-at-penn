@@ -7,7 +7,7 @@ require 'precol/util'
 ################################################################################
 # add_sheet.rb
 #
-# Add a MM_Metadata.xlsx and sha1_ready.txt files to DEST_DIR, using given
+# Add MM_Metadata.xlsx and sha1_ready.txt files to DEST_DIR, using given
 # OLD_BIBID.
 #
 # Script assumes old_bibid and converts to new format. Will break if given an
