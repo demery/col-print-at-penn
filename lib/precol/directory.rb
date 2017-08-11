@@ -10,7 +10,7 @@ module Precol
   # Note: Will NOT work with new style bibid.
   # Note: Does not create `mm-ready.txt` file.
   class Directory
-    attr_reader :path, :old_bibid, :verbose
+    attr_reader :path, :old_bibid, :verbose, :clobber
 
     ##
     # `path` -- the destination folder
@@ -19,20 +19,26 @@ module Precol
     #                `99#{old_bibid}3503681`
     #
     # `verbose` -- print activity [default=false]
-    def initialize path, old_bibid, verbose=false
+    def initialize path, old_bibid, options={}
       @path      = path
       @old_bibid = old_bibid
-      @verbose   = verbose
+      @verbose   = options[:verbose].nil? ? true : options[:verbose]
+      @clobber   = options[:clobber] || false
     end
 
     def prep
-      xlsx = Precol::MMMetadataXLSX.new path, old_bibid
-      xlsx.write
-      puts "Wrote '#{xlsx.outfile}'" if verbose
+      write_metadata_xslx
+      write_sha1_ready
+    end
 
-      sha1_ready = Precol::MMTextFile.new 'sha1-ready.txt', path
+    def write_metadata_xslx
+      xlsx = Precol::MMMetadataXLSX.new path, old_bibid, verbose: verbose, clobber: clobber
+      xlsx.write
+    end
+
+    def write_sha1_ready
+      sha1_ready = Precol::MMTextFile.new 'sha1-ready.txt', path, verbose: verbose, clobber: clobber
       sha1_ready.write
-      puts "Wrote '#{sha1_ready.outfile}'" if verbose
     end
   end
 end
