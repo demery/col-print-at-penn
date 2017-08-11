@@ -20,6 +20,8 @@ File.exists? input_csv or fail "Not a valid file: '#{input_csv}'"
 db_file = File.expand_path '../../data/one_off_printed_dirs.txt', __FILE__
 DIR_LIST = Precol::DirsOnDisk.new open(db_file).readlines.map &:strip
 
+# The input file may have bad encoding in it. Strip those characters out.
+# Hopefully, this won't alter any paths.
 tmpfile = Tempfile.new('foo')
 tmpfile.write(open(input_csv).read.encode('UTF-8', invalid: :replace))
 tmpfile.rewind
