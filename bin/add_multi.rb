@@ -4,15 +4,18 @@ $:.unshift File.expand_path '../../lib', __FILE__
 require 'precol'
 require 'precol/util'
 require 'csv'
+require 'optparse'
+require 'tempfile'
 
 ################################################################################
 # add_multi.rb
 #
-# Add MM_Metadata.xlsx and sha1_ready.txt files to each DIRECTORY in in
-# BIBID_DIR_CSV, using associated BIBID.
+# Add MM_Metadata.xlsx and sha1_ready.txt files to each 'FOUND PATH' in in
+# BIBID_DIR_CSV, using associated BibID.
 #
-# Expect sheet to have column headings 'DIRECTORY' and 'BIBID' (case
-# sensitive).
+# Expect sheet to have column headings 'FOUND PATH' and 'BIBID' (case
+# sensitive). The headers can be changed by setting shell/environment
+# variables PRECOL_DIRECTORY_HEADER and PRECOL_BIBID_HEADER.
 #
 ################################################################################
 
@@ -20,9 +23,9 @@ def usage
   "Usage: #{File.basename __FILE__} BIBID_DIR_CSV"
 end
 
-def exit_with_error msg
+def exit_with_error parser, msg
   puts "ERROR: #{msg}"
-  puts usage
+  puts parser.banner
   exit 1
 end
 
@@ -30,20 +33,60 @@ def print_error msg
   STDERR.puts "ERROR: #{msg}"
 end
 
+BIBID_HEADER     = ENV['PRECOL_BIBID_HEADER']     || 'BibID'
+DIRECTORY_HEADER = ENV['PRECOL_DIRECTORY_HEADER'] || 'FOUND PATH'
+
+options = {}
+parser = OptionParser.new do |opts|
+  opts.banner = "Usage: #{File.basename __FILE__} [options] BIBID_DIR_CSV"
+
+  opts.on "-v", "--[no-]verbose", "Run verbosely" do |v|
+    options[:verbose] = v
+  end
+
+  opts.on "-p", "--prefix PATH", "Prefix path for directories [default=.]" do |prefix|
+    options[:prefix] = prefix
+  end
+
+  opts.on("-h", "--help", "Prints this help") do
+    puts opts
+    puts <<EOF
+
+Add MM_Metadata.xlsx and sha1_ready.txt files to each 'FOUND PATH' in in
+BIBID_DIR_CSV, using associated BibID.
+
+Expect sheet to have column headings 'FOUND PATH' and 'BIBID' (case
+sensitive). The headers can be changed by setting shell/environment
+variables PRECOL_DIRECTORY_HEADER and PRECOL_BIBID_HEADER.
+EOF
+    exit
+  end
+end
+
+parser.parse!
+
+output_file = options[:output_file] || 'output.csv'
+prefix      = options[:prefix] || '.'
+
 input_csv = ARGV.shift
+exit_with_error parser, "Not a valid CSV" unless File.file? input_csv
 
-exit_with_error "Not a valid CSV" unless File.file? input_csv
+# The input file may have bad encoding in it. Strip those characters out.
+# Hopefully, this won't alter any paths.
+tmpfile = Tempfile.new('foo')
+tmpfile.write(open(input_csv).read.encode('UTF-8', invalid: :replace))
+tmpfile.rewind
 
-CSV.foreach input_csv, headers: true do |row|
-  dest_dir = row['DIRECTORY']
-  bibid    = row['BIBID']
+CSV.foreach tmpfile, headers: true do |row|
+  dest_dir = File.join prefix, row[DIRECTORY_HEADER]
+  bibid    = row[BIBID_HEADER]
 
   unless File.directory? dest_dir
-    print_error "Not a valid directory #{directory}"
+    print_error "Not a valid directory #{dest_dir}"
     next
   end
 
-  dir = Precol::Directory.new dest_dir, bibid, verbose=true
+  dir = Precol::Directory.new dest_dir, bibid, options[:verbose]
   dir.prep
 
 end
