@@ -8,9 +8,6 @@ require 'tempfile'
 
 include Precol::Util
 
-# mm_metadata = MMMedataXLSX.new "data/output", 2641869
-# mm_metadata.write
-
 input_csv = ARGV.shift
 
 headers = CSV.open(input_csv, 'r') { |csv| csv.first }
@@ -28,11 +25,10 @@ tmpfile.rewind
 # last_index
 output_csv = "#{input_csv.chomp('.csv')}-mod.csv"
 CSV.open output_csv, 'wb' do |out_csv|
-  # out_headers = [ 'STATUS '] + headers + ['FOUND PATH']
   out_csv << headers
 
   CSV.foreach tmpfile, headers: true do |row|
-    # BibID Collection  Directory File Path   Link to Print at Penn     File name
+    # STATUS | BibID | Collection | Directory | File Path | Link to Print at Penn | File name | FOUND PATH | Notes
     data = Precol::BookData.new row.to_hash
     if blank?(data.file_name)
       row['STATUS'] = 'NO FILE NAME'
