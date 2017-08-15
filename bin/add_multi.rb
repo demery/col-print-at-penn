@@ -33,6 +33,12 @@ def print_error msg
   STDERR.puts "ERROR: #{msg}"
 end
 
+def out_path prefix, directory
+  return directory if directory =~ /^\s*\//
+  rel = (directory =~ /^\s*\.\// ? directory.sub(/^\s*\.\//, '') : directory)
+  File.join prefix, rel
+end
+
 BIBID_HEADER     = ENV['PRECOL_BIBID_HEADER']     || 'BibID'
 DIRECTORY_HEADER = ENV['PRECOL_DIRECTORY_HEADER'] || 'FOUND PATH'
 
@@ -86,7 +92,7 @@ tmpfile.write(open(input_csv).read.encode('UTF-8', invalid: :replace))
 tmpfile.rewind
 
 CSV.foreach tmpfile, headers: true do |row|
-  dest_dir = File.join prefix, row[DIRECTORY_HEADER]
+  dest_dir = out_path prefix, row[DIRECTORY_HEADER]
   bibid    = row[BIBID_HEADER]
 
   unless File.directory? dest_dir
@@ -97,6 +103,6 @@ CSV.foreach tmpfile, headers: true do |row|
   init_opts = { quiet: options[:quiet], clobber: options[:clobber] }
   dir = Precol::Directory.new dest_dir, bibid, init_opts
   dir.prep and next
-  STDERR.puts "WARNING: Directory not prepped #{dest_dir}" unless options[:no_warn]
+  STDERR.puts "WARNING: No changes made to #{dest_dir}" unless options[:no_warn]
 
 end
