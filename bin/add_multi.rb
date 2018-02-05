@@ -20,7 +20,7 @@ require 'tempfile'
 ################################################################################
 
 def usage
-  "Usage: #{File.basename __FILE__} BIBID_DIR_CSV"
+  "Usage: #{File.basename __FILE__} [OPTIONS] BIBID_DIR_CSV"
 end
 
 def exit_with_error parser, msg
